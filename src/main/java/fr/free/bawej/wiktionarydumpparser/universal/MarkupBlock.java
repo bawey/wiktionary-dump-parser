@@ -68,9 +68,20 @@ public class MarkupBlock {
         return this.parent;
     }
 
+    public String getRawContent() {
+        return rawContent;
+    }
+
     public MarkupHeader getHeader(){
         return this.header;
     }
+
+    public boolean hasHeader() {
+        // TODO: perhaps the header should be Optional<> if it isn't always present
+        return this.header != null;
+    }
+
+
     /**
      * Override it if need be to create headers using different rules
      * @param rawHeader
@@ -79,6 +90,4 @@ public class MarkupBlock {
     protected MarkupHeader createHeader(String rawHeader){
         return new MarkupHeader(rawHeader);
     }
-
-
 }
