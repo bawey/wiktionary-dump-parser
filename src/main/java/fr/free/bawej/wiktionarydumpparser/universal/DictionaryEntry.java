@@ -11,6 +11,7 @@ public class DictionaryEntry {
     private final LexicalCategory lexicalCategory;
     private final LexiGrammaticalType grammaticalSpecification;
     private final List<WiktionarySense> senses;
+    private final List<Translation> translations;
 
     public static class Builder {
         private String title;
@@ -18,6 +19,7 @@ public class DictionaryEntry {
         private LexicalCategory lexicalCategory;
         private LexiGrammaticalType grammaticalSpecification;
         private final List<WiktionarySense> senses = new LinkedList<>();
+        private final List<Translation> translations = new LinkedList<>();
 
         public Builder setTitle(String title) {
             this.title = title;
@@ -44,18 +46,24 @@ public class DictionaryEntry {
             return this;
         }
 
+        public Builder addTranslation(Translation translation){
+            this.translations.add(translation);
+            return this;
+        }
+
         public DictionaryEntry build() {
-            return new DictionaryEntry(language, title, lexicalCategory, grammaticalSpecification, senses);
+            return new DictionaryEntry(language, title, lexicalCategory, grammaticalSpecification, senses, translations);
         }
 
     }
 
-    protected DictionaryEntry(Locale language, String title, LexicalCategory lexicalCategory, LexiGrammaticalType grammaticalSpecification, List<WiktionarySense> senses) {
+    protected DictionaryEntry(Locale language, String title, LexicalCategory lexicalCategory, LexiGrammaticalType grammaticalSpecification, List<WiktionarySense> senses, List<Translation> translations) {
         this.title = title;
         this.language = language;
         this.lexicalCategory = lexicalCategory;
         this.grammaticalSpecification = grammaticalSpecification;
         this.senses = Collections.unmodifiableList(senses);
+        this.translations = Collections.unmodifiableList(translations);
     }
 
     public String getTitle() {

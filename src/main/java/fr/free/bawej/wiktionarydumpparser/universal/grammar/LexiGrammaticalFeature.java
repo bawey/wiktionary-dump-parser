@@ -48,4 +48,11 @@ public abstract class LexiGrammaticalFeature<T> implements Comparable<LexiGramma
         }
         return order;
     }
+
+    @Override
+    public String toString() {
+        return "LexiGrammaticalFeature{" +
+                "value=" + value +
+                '}';
+    }
 }

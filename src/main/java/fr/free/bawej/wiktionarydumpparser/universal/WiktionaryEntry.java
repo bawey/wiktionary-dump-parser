@@ -1,7 +1,5 @@
 package fr.free.bawej.wiktionarydumpparser.universal;
 
-import fr.free.bawej.wiktionarydumpparser.universal.grammar.LexiGrammaticalType;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -15,7 +13,7 @@ public class WiktionaryEntry {
         private final String title;
         private final Locale language;
         private final long id;
-        private final List<DictionaryEntry> dictionaryEntries = new LinkedList<>();
+        private final List<DictionaryEntry.Builder> dictEntryBuilders = new LinkedList<>();
 
         public Builder(Locale language, long id, String title) {
             this.title = title;
@@ -23,13 +21,13 @@ public class WiktionaryEntry {
             this.id = id;
         }
 
-        public Builder addDictionaryEntry(DictionaryEntry entry) {
-            dictionaryEntries.add(entry);
+        public Builder addDictionaryEntryBuilder(DictionaryEntry.Builder entryBuilder) {
+            dictEntryBuilders.add(entryBuilder);
             return this;
         }
 
         public WiktionaryEntry build() {
-            return new WiktionaryEntry(this.language, this.id, this.title, this.dictionaryEntries);
+            return new WiktionaryEntry(this.language, this.id, this.title, this.dictEntryBuilders.stream().map(DictionaryEntry.Builder::build).collect(Collectors.toUnmodifiableList()));
         }
 
         public String getTitle() {
@@ -38,6 +36,10 @@ public class WiktionaryEntry {
 
         public Locale getLanguage() {
             return language;
+        }
+
+        public Iterator<DictionaryEntry.Builder> getDictEntryBuildersIterator(){
+            return Collections.unmodifiableList(dictEntryBuilders).iterator();
         }
     }
 

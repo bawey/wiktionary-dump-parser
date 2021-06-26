@@ -8,6 +8,6 @@ class MarkupBlockTest {
 
     @Test
     public void testTraversableSubtree(){
-        MarkupBlock block = new MarkupBlock("foo", "bar", null);
+        MarkupBlock block = new MarkupBlock("== foo ==", "bar", null);
     }
 }

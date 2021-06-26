@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class MarkupHeader {
-    public static final Pattern headerPattern = Pattern.compile("([=]+)(?:\s)([^=]*)(?:\s)([=]+)");
+    public static final Pattern headerPattern = Pattern.compile("([=]+)(?:\s)([^=]*|\\{\\{[^\\}]*\\}\\})(?:\s)([=]+)");
     private final String rawHeader;
     private final String value;
     private final int level;

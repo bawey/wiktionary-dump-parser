@@ -38,6 +38,10 @@ public class MarkupBlock {
         }
     }
 
+    public MarkupBlock(String rawHeader, String rawContent){
+        this(rawHeader, rawContent, null);
+    }
+
     public MarkupBlock(String rawHeader, String rawContent, MarkupBlock nextOfKin) {
         this.rawHeader = rawHeader;
         this.header = rawHeader != null ? createHeader(rawHeader) : null;
