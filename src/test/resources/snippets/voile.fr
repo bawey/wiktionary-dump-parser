@@ -1,0 +1,249 @@
+{{voir|voilé}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|fr|mot=velum}} qui [[désigner|désignait]] une [[grand]]e [[pièce]] d’[[étoffe]] servant à [[tamiser]] la [[lumière]] ou à [[couvrir]] un [[espace]] sans [[toiture]].
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|vwal}}
+'''voile''' {{pron|vwal|fr}} {{f}}
+# [[large|Large]] pièce de [[tissu]] [[assurant]] la [[propulsion]] des [[navire]]s ou des [[moulin]]s, par la [[force]] du [[vent]].
+#* ''[…] le matelot siffla ses hommes, sur un ordre qu’il leur donna, ils sautèrent tous sur le ''Saint-Ferdinand'', grimpèrent dans les cordages, et se mirent à le dépouiller de ses vergues, de ses '''voiles''', de ses agrès […]'' {{source|{{Citation/Honoré de Balzac/La Femme de trente ans/1855}}}}
+#* ''Des barques avec des '''voiles''' latines posées en ciseaux descendaient et remontaient le cours du fleuve sous le même vent, phénomène que je n’ai jamais bien compris, quoiqu’on me l’ait expliqué plusieurs fois. Quelques-uns de ces bateaux portaient une troisième petite '''voile''' en forme de triangle isocèle, posée dans l’écartement produit par les pointes divergentes des deux grandes '''voiles''' : ce gréement est très-pittoresque.'' {{source|{{w|Théophile Gautier}}, ''{{ws|Voyage en Espagne/XV|Voyage en Espagne}}'', Charpentier, 1859}}
+#* ''Pour remettre la machine en mouvement, on dirige d'abord l'arbre moteur dans le sens du vent, puis on écarte les '''voiles''' afin de garnir de nouveau les ailes.'' {{source|{{Citation/Edmond Nivoit/Notions élémentaires sur l’industrie dans le département des Ardennes/1869|116}}}}
+#* ''Par la fenêtre entr’ouverte, l’air entrait, gonflant comme une '''voile''' les rideaux de mousseline, et j’apercevais un pan de ciel bleu […]'' {{source|{{Citation/Octave Mirbeau/La Chambre close/1920}}}}
+#* ''Sans cesse sur le pont, ajustant les écoutes de mes '''voiles''' pour en obtenir le meilleur rendement, utilisant chaque souffle de vent, j’avais réussi à conserver la vitesse d’à peu près un nœud.'' {{source|{{w|Alain Gerbault}}, ''À la poursuite du soleil'' ; tome 1 : ''De New-York à Tahiti'', 1929}}
+#* ''Ses '''voiles''' délavées par le soleil et la pluie mais qui paraissaient blanches sur le gris du ciel, essayaient. de récupérer les rares frissons de brise pour améliorer la lente progression du bateau.'' {{source|Jean Petot, ''Histoire contemporaine de l'or de Guyane (de 1947 à nos jours)'', Éditions de l'Harmattan, 1994}}
+# {{méton|fr}} [[bateau|Bateau]].
+#* ''Cette obscure clarté qui tombe des étoiles, &lt;br
+/&gt;Enfin, avec le flux nous fit voir trente '''voiles'''.'' {{source|Corneille, ''Le Cid'', 1636}}
+# [[pratique|Pratique]] de la [[navigation]] en [[bateau]] à voile.
+#* ''La '''voile''', il n’y a rien de mieux pour se détendre ! J’en ai fait toute la fin de semaine.''
+# {{désuet|fr}} [[train|Train]] de [[bois]] flotté sur les rivières de l'est de la France&lt;ref&gt;''Dictionnaire de la langue française'', par Émile Littré (1872-1877)&lt;/ref&gt;.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[char à voile]]
+* [[être à voile et à vapeur]]
+* [[faire force de voiles]]
+* [[faire voile]] : [[voguer]], [[aller]]
+* [[grand-voile]]
+* [[mettre à la voile]] : [[appareiller]]
+* [[mettre les voiles]] : [[déguerpir]]
+* [[toile à voile]]
+* [[voileur]]
+* [[voile de la mariée]]
+* [[voile de mariée]]
+* [[voile solaire]]
+* [[voile sur glace]]
+* [[voilier]]
+* [[voilure]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|bateau|handisport}}
+
+==== {{S|traductions}} ====
+{{trad-début|Pièce de tissu assurant la propulsion des navires (1) :}}
+* {{T|sq}} : {{trad+|sq|vel}}
+* {{T|de}} : {{trad+|de|Segel}}
+* {{T|en}} : {{trad+|en|sail}}
+* {{T|ar}} : {{trad-|ar|شراع|tr=širāʿ}}, {{trad-|ar|قلع|tr=qil'}}
+* {{T|hy}} : {{trad+|hy|առագաստ|tr=aṙagast}}
+* {{T|az}} : {{trad+|az|yelkən}}
+* {{T|be}} : {{trad-|be|парус|tr=parus}}
+* {{T|br}} : {{trad+|br|gouel}}
+* {{T|bg}} : {{trad+|bg|платно|tr=platnó}}
+* {{T|ca}} : {{trad+|ca|vela}}
+* {{T|zh}} : {{trad+|zh|帆|tr=fān}}
+* {{T|ko}} : {{trad-|ko|돛|tr=dot}}
+* {{T|hr}} : {{trad-|hr|jedro}}
+* {{T|da}} : {{trad+|da|sejl|n}}
+* {{T|es}} : {{trad+|es|vela|f}}
+* {{T|eo}} : {{trad+|eo|velo}}
+* {{T|et}} : {{trad+|et|puri}}
+* {{T|fo}} : {{trad-|fo|segl}}
+* {{T|fi}} : {{trad+|fi|purje}}
+* {{T|gd}} : {{trad-|gd|seòl}}
+* {{T|ga}} : {{trad-|ga|seol}}
+* {{T|gl}} : {{trad+|gl|vela}}
+* {{T|cy}} : {{trad-|cy|hwyl}}
+* {{T|ka}} : {{trad-|ka|აფრა‎|tr=apra}}
+* {{T|el}} : {{trad+|el|πανί|n|tr=paní}}, {{trad+|el|ιστίο|n|tr=istío}}
+* {{T|he}} : {{trad+|he|מפרש|tr=mifrás}}
+* {{T|hu}} : {{trad+|hu|vitorla}}
+* {{T|id}} : {{trad+|id|layar}}
+* {{T|is}} : {{trad+|is|segl}}
+* {{T|it}} : {{trad+|it|vela|f}}
+* {{T|ja}} : {{trad+|ja|帆|tr=ho}}
+* {{T|la}} : {{trad-|la|velum|n}}
+* {{T|lv}} : {{trad+|lv|bura}}
+* {{T|lt}} : {{trad+|lt|burė}}
+* {{T|mk}} : {{trad-|mk|платно|tr=platno}}
+* {{T|ms}} : {{trad-|ms|layar}}
+* {{T|mt}} : {{trad-|mt|qlugħ}}
+* {{T|nl}} : {{trad+|nl|zeil}}
+* {{T|fra-nor}} : {{trad--|fra-nor|veile|f}}
+* {{T|no}} : {{trad+|no|seil|n}}
+* {{T|oc}} : {{trad+|oc|vela}}
+* {{T|fa}} : {{trad+|fa|بادبان|tr=bâdbân}}
+* {{T|myp}} : {{trad--|myp|baósaí}}
+* {{T|pl}} : {{trad+|pl|żagiel|m}}
+* {{T|pt}} : {{trad+|pt|vela|f}}
+* {{T|ro}} : {{trad+|ro|velă|f}}
+* {{T|ru}} : {{trad+|ru|парус|tr=párus}}
+* {{T|sr}} : {{trad-|sr|једро|tr=jedro}}
+* {{T|zdj}} : {{trad--|zdj|tranga}}
+* {{T|sk}} : {{trad-|sk|plachta}}
+* {{T|sl}} : {{trad+|sl|jadro}}
+* {{T|sv}} : {{trad+|sv|segel}}
+* {{T|cs}} : {{trad+|cs|plachta}}
+* {{T|th}} : {{trad-|th|ใบเรือ|tr=bai reua}}
+* {{T|tsolyáni}} : {{trad--|tsolyáni|otésukh}} ({{p}} [[otésuyal]])
+* {{T|tr}} : {{trad+|tr|yelken}}
+* {{T|uk}} : {{trad-|uk|парус|tr=parus}}
+* {{T|vi}} : {{trad+|vi|buồm}}
+{{trad-fin}}
+
+{{trad-début|Pratique de la navigation en bateau à voile (3) :}}
+* {{T|en}} : {{trad+|en|sailing}}
+* {{T|ca}} : {{trad+|ca|vela}}
+* {{T|da}} : {{trad-|da|sejlsport|c}}
+* {{T|es}} : {{trad+|es|vela|f}}
+* {{T|fi}} : {{trad+|fi|purjehdus}}, {{trad+|fi|purjehtiminen}}
+* {{T|nl}} : {{trad+|nl|zeilen}}
+* {{T|no}} : {{trad-|no|seiling|m}}
+* {{T|oc}} : {{trad+|oc|vela}}
+* {{T|pl}} : {{trad+|pl|żeglarstwo|n}}, {{trad-|pl|żagle}} {{mplur}}
+* {{T|ro}} : {{trad+|ro|iahting|n}}
+* {{T|tsolyáni}} : {{trad--|tsolyáni|lazhà’amongékh}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|vwal}}
+[[Image:Places of articulation.png|thumb|400px| '''(8)''' A : Consonnes [[laryngal]]es, B : [[pharyngal]]es, C : [[uvulaire]]s, D : '''[[vélaire]]s''', E : [[palatal]]es, F : [[alvéolaire]]s, G : [[dental]]es, H : [[labial]]es]]
+'''voile''' {{pron|vwal|fr}} {{m}}
+# Pièce de [[toile]] ou d’étoffe [[destiner|destinée]] à [[couvrir]], à [[protéger]], à [[cacher]] [[quelque chose]].
+#* ''L’homme, historiquement parlant, a accumulé contre sa compagne tout ce qu’il a pu imaginer de duretés et d’incapacités. Il en a fait une captive, il l’a couverte d’un '''voile''' et cachée à l’endroit le plus secret de sa maison, comme une divinité malfaisante ou une esclave suspecte.'' {{source|Jules Doublet, ''Jésus-Christ étudié en vue de la prédication dans Saint Thomas d’Aquin'', tome premier, Berche et Tralin, Paris, 1876, pages 154-155}}
+#* ''Ce pays qu’il aimait lui sembla tout nouveau, comme si un '''voile''', qui l’eût recouvert jusqu’ici, eût été brusquement retiré.'' {{source|{{w|Isabelle Eberhardt}}, ''[[s:Le Major|Le Major]]'', 1903}}
+#* ''Mais depuis deux ans, l’Égypte s’est transformée. La plupart des femmes, les jeunes surtout, ne se croient plus obligées de porter le '''voile'''.'' {{source|{{w|Out-el-Kouloub}}, ''Zaheira'', dans « Trois contes de l’Amour et de la Mort », 1940}}
+#* ''Les vierges arabes nous sont inconnues comme les femmes antiques, et le '''voile''' qui les recouvre vaut la pierre du tombeau.'' {{source|{{w|Pierre Louÿs}}, ''La Femme dans la poésie arabe'', dans ''Archipel'', 1932}}
+# {{en particulier|fr}} {{lexique|religion|fr}} [[partie|Partie]] du [[costume]] des [[religieux|religieuses]] qui [[couvrir|couvre]] la [[tête]].
+#* ''Il se trouva ainsi, d’après les lois de l’église, coupable d’un double sacrilège, comme bigame, et comme mari d’une femme qui avait reçu le '''voile''' de religieuse.'' {{source|{{w|Augustin Thierry}}, ''Récits des temps mérovingiens'', 1{{er}} récit : ''Les quatre fils de Chlother Ier — Leur caractère — Leurs mariages — Histoire de Galeswinthe (561-568)'', 1833–1837}}
+#* ''Et le silence revint brusquement tandis que les filles chuchotaient que le diable avait pris une novice pour l'emporter avant qu'elle ait pu mettre ses '''voiles''' blancs.'' {{source|{{w|Pierre Gamarra}}, ''Rosalie Brousse'', chapitre IV ; Éditeurs Français Réunis, Paris, 1953}}
+# {{par ext}} Tissu [[léger]] et [[croisé]], [[analogue]] à celui dont on fait le voile des religieuses.
+#* ''Une robe en '''voile''' de soie, de laine ou de coton.''
+# {{figuré|fr}} [[obstacle|Obstacle]] qui [[altère]] la [[vue]] ou la [[vision]].
+#* ''Vers le soir, nous commençons à distinguer des formes vagues qui se dessinent derrière le '''voile''' de brume, […].'' {{source|Jules Leclercq, ''La Terre de glace, Féroë, Islande, les geysers, le mont Hékla'', Paris : E. Plon &amp; Cie, 1883, page 39}}
+#* ''Un '''voile''' de nuages embrumait la perspective des rues et des squares, et le roulis de l’aéronef balançait le spectacle.'' {{source|{{Citation/H. G. Wells/La Guerre dans les airs/1921|240}}}}
+# {{figuré|fr}} [[apparence|Apparence]], [[prétexte]], [[moyen]] dont on se [[servir|sert]] pour [[tenir]] une chose [[cacher|cachée]].
+#* ''Ces catastrophes ne sont pas seulement industrielles, elles signalent aussi de profondes défaillances dans l’action des gouvernements, qui préfèrent ensuite recouvrir pudiquement ces désastres du '''voile''' de l’oubli.'' {{source|{{Lien web |auteur=Le Monde |url=https://www.lemonde.fr/idees/article/2018/09/01/les-irreversibles-contaminations-de-la-planete_5348924_3232.html |titre=Editorial. Les irréversibles contaminations de la planète |éditeur=Le Monde |en ligne le=2 septembre 2018}}}}
+#* ''Un scélérat qui se couvre du '''voile''' de la piété, de la dévotion.''
+# {{figuré|fr}} Ce qui nous [[dérober|dérobe]] la [[connaissance]] de quelque chose.
+#* ''Lever un coin du '''voile''' qui nous cache les secrets de nature.''
+# {{lexique|photographie|fr}} {{term|argentique}} [[obscurcissement|Obscurcissement]] d’une [[partie]] ou de la [[totalité]] du [[négatif]], dû à l’[[action]] [[accidentel]]le d’une lumière trop grande.
+#* ''Il y a un '''voile''' sur cette photographie.''
+# {{lexique|anatomie|fr}} [[cloison|Cloison]] [[membraneux|membraneuse]] [[situer|située]] en [[arrière]] de la [[voûte]] du [[palais]] et qui [[contribuer|contribue]] à [[séparer]] la [[bouche]] des [[fosse]]s [[nasal]]es ou du [[pharynx]].
+# {{lexique|maçonnerie|fr}} Type de [[voûte]]&lt;ref&gt;{{WP|Voile (architecture)}}&lt;/ref&gt;.
+#* ''Le remarquable '''voile''' mince du berceau segmentaire de la nef (de moins de cinq centimètres d’épaisseur) et les voûtes transversales des bas-côtés reposent sur 32 colonnes (de 11 mètres de hauteur pour 43 cm de diamètre) dont la gracilité, le profil galbé et cannelé et la nudité contribuent amplement à l’harmonie aérienne de l’espace intérieur.'' {{source|Antoine {{pc|Le Bas}}, ''Notre-Dame du Raincy (Seine-Saint-Denis), chef-d’œuvre des chapelles de la banlieue ?'', In Situ - Revue des patrimoines, 2009-11}}
+# Partie centrale de la jante.
+#* ''Jante à '''voile''' plein, à '''voile''' ajouré.''
+
+==== {{S|dérivés}} ====
+* [[avoir un voile devant les yeux]] {{figuré|nocat=1}} Se dit lorsque les préjugés, les préventions, l’amour, la haine, ou quelque autre passion nous empêche de voir les choses comme elles sont
+* [[jeter un voile sur quelque chose]]
+* [[prendre le voile]] {{info lex|religion}} Entrer au noviciat, se faire religieuse
+* [[vélaire]] (7)
+* [[voilage]]
+* [[voile du palais]]
+* [[voile-manteau]]
+* [[voiler]]
+* [[voiles de la nuit]] {{figuré|nocat=1}} Les ténèbres de la nuit
+* [[voilette]]
+
+==== {{S|traductions}} ====
+{{trad-début|Pièce de toile ou d’étoffe destinée à couvrir, à protéger, à cacher quelque chose.|1}}
+* {{T|de}} : {{trad+|de|Schleier}}
+* {{T|en}} : {{trad+|en|veil}}
+* {{T|ar}} : {{trad-|ar|خمار|tr=khimaèr}}
+* {{T|ca}} : {{trad+|ca|vel}}
+* {{T|da}} : {{trad-|da|dække|n}}, {{trad-|da|forhæng|n}}, {{trad-|da|slør}}
+* {{T|es}} : {{trad+|es|velo}}
+* {{T|fi}} : {{trad+|fi|huntu}}
+* {{T|nl}} : {{trad+|nl|sluier}}
+* {{T|pl}} : {{trad-|pl|woal|m}}, {{trad+|pl|woalka|f}}
+* {{T|pt}} : {{trad+|pt|véu|m}}
+* {{T|ro}} : {{trad+|ro|văl|n}}
+* {{T|se}} : {{trad--|se|govččas}}
+* {{T|zdj}} : {{trad--|zdj|bwibwi}}, {{trad--|zdj|shiromani}}, {{trad--|zdj|hidjaɓu|tr=hidjabu}}
+* {{T|tsolyáni}} : {{trad--|tsolyáni|kyasúnikh}} ({{p}} [[kyasúnyal]])
+{{trad-fin}}
+
+{{trad-début|{{info lex|religion}} Couvre-chef des religieuses|2}}
+* {{T|en}} : {{trad+|en|veil}}
+* {{T|ca}} : {{trad+|ca|vel}}
+* {{T|da}} : {{trad-|da|slør|n}}
+* {{T|es}} : {{trad+|es|velo}}
+* {{T|fi}} : {{trad+|fi|huntu}}, {{trad+|fi|huivi}}
+* {{T|hu}} : {{trad+|hu|fátyol}}
+* {{T|nl}} : {{trad+|nl|sluier}}
+* {{T|pl}} : {{trad-|pl|woal|m}}
+* {{T|ro}} : {{trad-|ro|văl, voal|n}}
+* {{T|cs}} : {{trad-|cs|závoj|m}}
+{{trad-fin}}
+
+{{trad-début|{{figuré|nocat=1}} Apparence, prétexte, moyen dont on se sert pour tenir une chose cachée|5}}
+* {{T|en}} : {{trad+|en|veil}}
+* {{T|id}} : {{trad+|id|tudung}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+* {{T|no|trier}} : {{trad-|no|svøp}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|voiler|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui}}
+'''voile''' {{pron|vwal|fr}}
+# ''Première personne du singulier du présent de l’indicatif de'' [[voiler]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[voiler]].
+# ''Première personne du singulier du présent du subjonctif de'' [[voiler]].
+# ''Troisième personne du singulier du présent du subjonctif de'' [[voiler]].
+# ''Deuxième personne du singulier de l’impératif présent de'' [[voiler]].
+
+=== {{S|anagrammes}} ===
+* [[Olive]], [[olive]], [[olivé]]
+* [[viole]], [[violé]]
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|vwal|fr}}
+* {{pron|vwal|fr}} (France)
+** {{écouter|lang=fr|France &lt;!-- précisez svp la ville ou la région --&gt;|vwal|audio=Fr-voile.ogg}}
+* {{pron|vwal|fr}} ou {{pron|vwɛl|fr}} (Canada standard)
+**{{écouter|lang=fr|Canada (Québec, Mauricie, Shawinigan)(vernaculaire)|titre=Voile. Un bateau à voile|audio=Un voile.ogg}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-voile.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-voile.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-voile.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-voile.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-voile.wav}}
+* {{écouter|lang=fr|Suisse (Lausanne)||audio=LL-Q150 (fra)-Eihel-voile.wav}}
+
+=== {{S|anagrammes}} ===
+* [[Olive]]
+* [[olive]], [[olivé]] {{cf|lang=fr|olive|oliver}}
+* [[ovilé]]
+* [[viole]], [[violé]] {{cf|lang=fr|violer}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}
+{{Références}}
+
+[[Catégorie:Lexique en français de la navigation]]
+[[Catégorie:Lexique en français des loisirs]]
+[[Catégorie:Lexique en français de la couture]]
+[[Catégorie:Lexique en français du sport]]
+[[Catégorie:Couvre-chefs en français]]
+[[Catégorie:Noms multigenres en français]]

@@ -1,0 +1,89 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|?}} Du {{étyl|la|fr|mot=infligo|dif=infligere|sens=infliger, frapper}}.
+
+=== {{S|verbe|fr}} ===
+'''infliger''' {{pron|ɛ̃.fli.ʒe|fr}} {{t|fr}} {{conj|grp=1|fr}} {{lien pronominal|'}}
+# [[frapper|Frapper]] quelqu’un d’une [[peine]] pour une [[transgression]], une [[faute]], un [[délit]] ou un [[crime]].
+#* ''Il suffit de rappeler qu'en 1629, un arrêt, provoqué par le procureur-général, interdit aux moines d’'''infliger''' aux leurs la prison perpétuelle, l’ ''In pace'', etc. Ces cruautés continuèrent.'' {{source|{{w|Jules Michelet}}, ''Du prêtre, de la femme, de la famille'', 3{{e}} éd., Hachette &amp; Paulin, 1845, Préface de la 3{{e}} édition, p.XXIII}}
+#* ''Citoyen islandais, M. Jón Kristinsson fut convaincu en 1984 de deux infractions au code de la route par le tribunal correctionnel du district d’Akureyri, qui lui '''infligea''' une amende.'' {{source|Conseil de l'Europe, ''Annuaire de la Convention Européenne des Droits de l'Homme'', Martinus Nijhoff Publishers, 1990, vol.33, page 137}}
+#* ''L’article 134 du code pénal iranien autorisant les juges à utiliser leur pouvoir discrétionnaire pour '''infliger''' une peine plus élevée que celle prévue par la loi lorsque le défendeur fait l’objet de plus de trois chefs d’accusation, le juge lui '''a infligé''' quatre années supplémentaires à sa peine totale de prison, la faisant passer du maximum statutaire de 29 à 33 ans.'' {{source|''Iran: lourde peine de prison pour la militante des droits humains Nasrin Sotoudeh'', rfi.fr, 11 mars 2019}}
+# Faire [[subir]] à quelqu'un une chose [[pénible]].
+#* ''Pourquoi ne s'en prenaient-ils pas à ceux qui '''infligeaient''' des chocs électriques atroces à des chiens mais qui cafouillaient tellement dans la conception de leurs tests qu'on ne pouvait tirer aucune conclusion de leurs résultats ?'' {{source|Jussi Valtonen, ''Ils ne savent pas ce qu'ils font'', traduit du finnois par Sébastien Cagnoli, Librairie Arthème Fayard, 2017}}
+#* ''Le ressentiment et la haine sont des réactions normales et courantes devant une violence qui nous a été injustement '''infligée'''. Néanmoins, il faut lucidement admettre que ce sont des émotions qui font du mal essentiellement à la personne qui les ressent.'' {{source|Claude {{pc|Villeneuve}}, « Le pardon qui guérit », ''Le journal de Québec'', 22 novembre 2020.}}
+
+==== {{S|dérivés}} ====
+* [[infligeable]]
+
+==== {{S|traductions}} ====
+{{trad-début|1. Frapper quelqu’un d’une peine pour une transgression, une faute, un délit ou un crime.}}
+* {{T|zdj}} : {{trad--|zdj|-rema|dif=urema}}
+{{trad-fin}}
+
+{{trad-début|2. Faire subir à quelqu'un une chose pénible.}}
+* {{T|zdj}} : {{trad--|zdj|-hondresa|dif=uhondresa}}
+{{trad-fin}}
+
+===== {{S|traductions à trier}} =====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|inflict}}
+* {{T|ca}} : {{trad+|ca|infligir}}
+* {{T|es}} : {{trad+|es|infligir}}
+* {{T|eo}} : {{trad-|eo|sentigi}}
+* {{T|ksh}} : {{trad--|ksh|aandun}}
+* {{T|el}} : {{trad+|el|επιβάλλω|R=epivállo}}
+* {{T|io}} : {{trad+|io|aplikar}}, {{trad+|io|impozar}}
+* {{T|it}} : {{trad+|it|infliggere}}
+* {{T|oc}} : {{trad-|oc|infligir}}
+* {{T|pt}} : {{trad+|pt|infligir}}
+* {{T|cs}} : {{trad-|cs|uštědřit}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|Suisse (canton du Valais)|audio=LL-Q150 (fra)-DSwissK-infliger.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-infliger.wav}}
+* {{écouter|lang=fr|Canada (Shawinigan)||audio=LL-Q150 (fra)-DenisdeShawi-infliger.wav}}
+
+=== {{S|voir aussi}} ===
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+
+== {{langue|ia}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|la|ia|mot=infligo}}.
+
+=== {{S|verbe|ia}} ===
+'''infliger''' {{pron|in.fli.ˈʒɛr|ia}} {{conjugaison|ia}}
+# [[infliger#fr|Infliger]].</text>
+      <sha1>j47aokl5lrk4j22nst5y4j67c7tlpuh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>influentiar</title>
+    <ns>0</ns>
+    <id>41637</id>
+    <revision>
+      <id>23852655</id>
+      <parentid>18699593</parentid>
+      <timestamp>2017-05-24T15:59:30Z</timestamp>
+      <contributor>
+        <username>Baltic Bot</username>
+        <id>127589</id>
+      </contributor>
+      <minor />
+      <comment>Retrait des liens interlangues qui sont maintenant gérés automatiquement par [[mw:Extension:Cognate]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" xml:space="preserve">== {{langue|ia}} ==
+=== {{S|étymologie}} ===
+: {{ébauche-étym|ia}}
+
+=== {{S|verbe|ia}} ===
+'''influentiar''' {{conjugaison|ia}}
+# [[influencer quelque chose|Influencer quelque chose]].
+# [[influencer quelqu'un|Influencer quelqu'un]].
+
+=== {{S|prononciation}} ===
+* {{pron|in.flu.ɛn.ˈt͡sjar|ia}}

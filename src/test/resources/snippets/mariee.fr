@@ -1,0 +1,227 @@
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Féminin de ''[[marié]]''.
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ma.ʁje}}
+'''mariée''' {{pron|ma.ʁje|fr}} {{f}}
+# [[femme|Femme]] qui se marie ou qui s’est mariée le [[jour]] même.
+#* ''La '''mariée''' arrive avec le retard de circonstance, affublée d'une extraordinaire robe bouffante et emperlousée qui aurait fait rougir de honte même la fée la plus frivole.'' {{source|{{w|Mark Mills}}, ''En attendant Doggo'', traduit de l'anglais par Florence Hertz, éd. Belfond, 2016}}
+# [[épouse|Épouse]].
+# {{info lex|zoologie}} Synonyme de [[lichénée mariée]] (papillon).
+
+==== {{S|apparentés}} ====
+: {{cf|lang=fr|marier}}
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[déplorer que la mariée soit trop belle]]
+* [[globe de mariée]]
+* [[jeune mariée]]
+* [[maumariée]]
+* [[robe de mariée]]
+* [[se plaindre que la mariée est trop belle]]
+* [[voile de la mariée]]
+* [[voile de mariée]]
+{{)}}
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|en}} : {{trad+|en|bride}}
+* {{T|ca}} : {{trad+|ca|núvia}}
+* {{T|shy}} : {{trad--|shy|taslit}}
+* {{T|da}} : {{trad+|da|brud}}, {{trad-|da|ægtehustru}}
+* {{T|es}} : {{trad+|es|novia}}
+*{{T|oc}} : {{trad+|oc|nòvia}}
+* {{T|fa}} : {{trad+|fa|عروس|R=aroos}}
+* {{T|ses}} : {{trad--|ses|woyhiiji}}
+* {{T|cs}} : {{trad+|cs|nevěsta}}
+* {{T|non}} : {{trad--|non|brúðr}}
+* {{T|wa}} : {{trad+|wa|marieye|f}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr|flexion}} ===
+'''mariée''' {{pron|ma.ʁje|fr}}
+# ''Féminin singulier de l’adjectif'' [[marié]].
+#* ''Moi, à quarante-cinq ans, ça en fait déjà vingt-sept que je suis '''mariée''' avec un insupportable qui m’a volé ma jeunesse.'' {{source|Pierre Lucas, ''Taupe-là'', 2014}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|marier|ppf=oui}}
+'''mariée''' {{pron|ma.ʁje|fr}}
+# ''Participe passé féminin singulier de'' [[marier]].
+
+=== {{S|prononciation}} ===
+{{ébauche-pron|fr}}
+* {{écouter|lang=fr|France &lt;!-- précisez svp la ville ou la région --&gt;||audio=Fr-mariée.ogg}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-mariée.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-mariée.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-mariée.wav}}
+
+=== {{S|anagrammes}} ===
+* [[émiera]]
+* [[raimée]]
+* [[réaime]]
+
+=== {{S|références}} ===
+* {{R:DAF8|marier}}
+
+[[Catégorie:Papillons en français]]</text>
+      <sha1>tor2jjz5thmyhaxl7c2bv9b4c4z195s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>déceptif</title>
+    <ns>0</ns>
+    <id>223361</id>
+    <revision>
+      <id>27304566</id>
+      <parentid>25371867</parentid>
+      <timestamp>2019-12-22T08:54:53Z</timestamp>
+      <contributor>
+        <username>Otourly</username>
+        <id>5919</id>
+      </contributor>
+      <comment>Traductions : +italien : [[decettivo]] (assisté)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1828" xml:space="preserve">== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=fr}} Du {{étyl|la|fr|mot=deceptivus|sens=trompeur}}, mot sorti de l’usage&lt;ref&gt;[http://www.academie-francaise.fr/deceptif Académie française], novembre 2013&lt;/ref&gt; qui connait un regain sous l’influence de l’{{étyl|en|la|mot=deceptive|sens=trompeur}}.
+
+=== {{S|adjectif|fr}} ===
+{{fr-accord-f|décepti|de.sɛp.ti}}
+'''déceptif''' {{pron|de.sɛp.tif|fr}}
+# {{latinisme|fr}} {{anglicisme|fr}} [[trompeur#fr|Trompeur]].
+#* ''Éloquence '''déceptive'''.''
+#* ''Moyens '''déceptifs'''.''
+#* ''Nostre dit cousin de Bourgogne a pris son chemin par voies '''deceptives''' et frauduleuses.'' {{source|{{nom w pc|Enguerrand de|Monstrelet}} I, 122, {{siècle2|XV}} s.}}
+#* ''Avecques leurs paroles '''deceptives''' et pleines de vent, les flateurs enflent une ame ainsi qu’un ballon.'' {{source|François {{petites capitales|Lanoué}} 330, {{siècle2|XIV}} s.}}
+#* ''Mais pas ne suis assez vindicatif pour un tel cueur si faux et '''deceptif'''.'' {{source|{{petites capitales|Marot}} I, 360, {{siècle2|XIV}} s.}}
+#* ''Ce présent '''déceptif''' [d’une robe empoisonnée] a bu toute leur force [des poisons], Et, bien mieux que mon bras, vengera mon divorce'' {{source|{{nom w pc||Corneille|Pierre Corneille}}, ''Médée'', IV, 2}}
+#* ''Une marque est considérée comme '''déceptive''' si elle est de nature à induire le public en erreur sur la qualité, l’origine ou la nature du produit.'' {{source|[http://www.definitions-marketing.com/definition/marque-deceptive/ Définition en mercatique]}}
+
+==== {{S|traductions}} ====
+{{trad-début|Trompeur|1}}
+* {{T|en}} : {{trad+|en|deceptive}}
+* {{T|it}} : {{trad+|it|decettivo}}
+* {{T|oc}} : {{trad-|oc|deceptiu}}, {{trad+|oc|enganaire}}
+{{trad-fin}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+{{Références}}</text>
+      <sha1>sku55fa75s62n8kszdbxdr3pbuhplht</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wiktionnaire:Critères d'acceptabilité des articles/Proposition 1</title>
+    <ns>4</ns>
+    <id>223363</id>
+    <revision>
+      <id>26045321</id>
+      <parentid>15686148</parentid>
+      <timestamp>2019-01-30T11:25:04Z</timestamp>
+      <contributor>
+        <username>Braaark</username>
+        <id>133618</id>
+      </contributor>
+      <minor />
+      <comment>/* Qu'est-ce qu'un mot ? */ Typo.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5611" xml:space="preserve">{{en construction}}
+
+Cette page récapitule les critères d'acceptation des articles.
+
+== Pourquoi des critères ? ==
+Le Wiktionnaire est un dictionnaire francophone qui décrit les mots et expressions de toutes les langues.
+
+Chacun pouvant contribuer et s'y référer, il est important de comprendre que les critères d'acceptation des articles sont nécessaires pour éviter que le Wiktionnaire devienne n'importe quoi. Les mots courants doivent-être clairement définis, les mots rares doivent-être présents et l'ajout de mots nouveaux ne doit répondre qu'à une réalité.
+
+La notoriété est un critère évident pour Wikipédia, mais non pertinent pour le Wiktionnaire.
+
+Le Wiktionnaire se doit d'avoir une attitude neutre vis-à-vis des informations qu'elle donne. Ainsi, plus courte est la définition, meilleure elle est.
+
+== Les 3 règles ==
+=== Tous les mots sont admis ===
+
+Tous les mots '''existants''', même rares, de toutes les '''langues''' (vivantes ou mortes), sous toutes leurs '''formes''', sont admis.
+
+==== Qu'est-ce qu'un mot ? ====
+Les mots des ''différentes langues'' :
+* un adjectif, un nom commun, un nom propre...
+* un outil grammatical, pronom, déterminant...
+* un élément formant : suffixe, préfixe.
+Les conventions internationales
+* les caractères, les symboles.
+
+Les ''différentes formes'' des mots : 
+* les féminins, pluriels
+* les formes conjugués des verbes.
+Elles peuvent poser des problèmes de traduction, et elles sont donc admise. La référence au terme principal doit être clairement indiquée.
+
+L’'''écriture phonétique''', les '''pseudonymes''' ne sont pas acceptés.
+
+Les majuscules sont prises en compte contrairement à Wikipédia, on veillera donc à ce que les articles commencent par une minuscule, sauf dans les cas ou la majuscule est nécessaire.
+
+==== Exemples ====
+# [[confuses]], [[Confucius]], [[SNCF]] et [[Stendhal]] sont admis, mais pas Darkdadaah.
+# [[raccourci]] mais pas '''rallongis''', ni '''rakoursi'''.
+
+=== Les locutions ne sont pas toutes admises ===      
+Seule les locutions qui ne se comprennent pas en comprenant chacun de leur élément sont incluses.
+==== Quels sont les locutions acceptées ====
+On laisse le soin au lecteur de reconstituer, les phrases, en particulier si le sens d'une locution peut-être déduit à partir des mots qui la compose, on ne crééra pas d'article.
+
+On exclut tout contenu encyclopédique du wiktionnaire.
+==== Exemples ====
+# [[chien de prairie]], [[chemin de fer]], [[Le Havre]] et [[fier comme Artaban]] sont admis, 
+# Pas  '''Société nationale des chemins de fer français''' ni '''Jacques Chirac'''.
+=== Les mots douteux ===
+Le simple fait qu'un contributeur dise qu'un mot existe ne suffit pas pour le faire rentrer dans le wiktionnaire. Si un mot douteux est proposé, il fait l'objet d'une attention particulière : on propose le mot à la suppression.
+==== Des attestations ====
+Pour les '''mots en français''' :
+* la preuve de cette existence doit être fournie dans un délai d'un mois pour éviter la suppression. 
+** Au moins deux attestations, orales ou écrites, mais à la fois vérifiables, sérieuses, non liées au créateur du mot et indépendantes entre elles.
+** Pour les mots essentiellement oraux, des témoignages de contributeurs réguliers du Wiktionnaire sur l'existence du mot peuvent suffire.
+Pour les mots rares dans les '''langues étrangères''' :
+* la présence pérenne de ce mot dans le wiktionnaire de la langue en question sera une preuve suffisante. 
+* Si ce wiktionnaire a au contraire déjà étudié le cas et considéré que ce mot n'existait pas, il ne sera pas admis non plus ici.
+** Des témoignages de contributeurs réguliers du Wiktionnaire sur l'existence du mot peuvent suffire.
+
+== Les autres problèmes ==
+
+=== Notion d’attestation ===
+Les mots doivent pouvoir être attestés. Il peut s'agir d'attestations
+* dans un autre dictionnaire (exemple : le Dictionnaire de l'Académie française),
+* dans des livres,
+* dans des journaux,
+* dans les wiktionnaires pour les mots étrangers
+* sur wikipédia
+
+Les mots nouveaux, très récents, qui n'ont pas été attestés par des dictionnaires, mais qui sont pourtant très courant, ne peuvent être acceptés que si l'on trouve au moins 2 sources correctes. Si un mot n'est plus utilisé, mais qu'il a été utilisé, cela ne pose pas de problème d'admissibilité, mais doit être signalé.
+
+Pour attester un mot, il suffit de laisser un lien dans la section {-réf-} en fin de section de langue (exemple : [[pétéchial]]).
+
+=== Noms propres === 
+ Consultez la discussion en cours à ce sujet [[Wiktionnaire:Wikidémie/Noms propres]].
+En résumé, on accepte : 
+* les noms de lieux
+on refuse :
+* les surnoms personnels (voir termes inventés)
+on discute sur le reste
+* noms de famille
+* prénoms
+* les noms de lieu très précis
+
+=== Termes inventés ===
+'''Ils n'ont pas leur place dans le Wiktionnaire.'''
+
+=== Qualité des articles ===
+Elle dépend en partie du contenu et aussi du format.
+
+Il est intéressant sur un mot de savoir ce qu'il veut dire bien sûr, mais aussi de connaître son histoire, son étymologie, la manière dont on le prononce, si on peut le traduire dans une autre langue. Quand vous rajoutez du contenu au wiktionnaire, gardez toujours cela à l'esprit. Ces informations peuvent être rajoutées petit à petit.
+
+Enfin, il faut se rappeler que le wiktionnaire n'est pas wikipédia, et que les articles n'ont pas besoin de faire des kilomètres de long, mais qu'ils doivent fournir les informations nécessaires.
+
+[[en:Wiktionary:Criteria for inclusion]]

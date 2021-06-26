@@ -3,6 +3,9 @@ package fr.free.bawej.wiktionarydumpparser.universal;
 import fr.free.bawej.wiktionarydumpparser.french.FrenchMarkupChunker;
 import fr.free.bawej.wiktionarydumpparser.french.FrenchSensesBlockInformationExtractor;
 import fr.free.bawej.wiktionarydumpparser.samples.FrenchSampleMarkup;
+import fr.free.bawej.wiktionarydumpparser.universal.grammar.Gender;
+import fr.free.bawej.wiktionarydumpparser.universal.grammar.LexiGrammaticalType;
+import fr.free.bawej.wiktionarydumpparser.universal.grammar.LexicalCategory;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
@@ -17,8 +20,11 @@ class WiktionaryDumpConverterImplTest {
 
     @Test
     public void testWhoKnowsWhat(){
-        WiktionaryEntry entry = converter.convertDumpRecord(new WiktionaryDumpRecord(Locale.FRENCH, 1, "accueil", FrenchSampleMarkup.SAMPLE_M));
-        assertNotNull(entry.getSenses());
-        assertEquals(2, entry.getSenses().size());
+        WiktionaryEntry entry = converter.convertDumpRecord(new WiktionaryDumpRecord(Locale.FRENCH, 1, "accueil", FrenchSampleMarkup.SAMPLE_M)).iterator().next();
+        assertEquals(1, entry.getDictionaryEntries().size());
+        DictionaryEntry dictEntry = entry.getDictionaryEntries().iterator().next();
+        assertEquals(LexicalCategory.NOUN, dictEntry.getLexicalCategory());
+        assertTrue(dictEntry.getGrammaticalSpecification().is(Gender.MASCULINE));
+        assertEquals(2, dictEntry.getSenses().size());
     }
 }

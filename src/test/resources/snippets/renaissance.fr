@@ -1,0 +1,45 @@
+{{voir|Renaissance}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: Ce mot est formé du préfixe itératif « [[re-]] » et de « [[naissance]] ».
+
+=== {{S|nom|fr}} ===
+{{fr-rég|ʁə.nɛ.sɑ̃s}}
+'''renaissance''' {{pron|ʁə.nɛ.sɑ̃s|fr}} {{f}}
+# [[second|Second]]e, [[nouveau|nouvelle]] [[naissance]].
+#* ''La '''renaissance''' du phénix est une fable.''
+# [[renouvellement|Renouvellement]], [[renouveau]].
+#* ''La '''renaissance''' du printemps.''
+# {{figuré|fr}} [[réapparition|Réapparition]] après une [[interruption]], en parlant des choses [[moral]]es ou [[intellectuel]]les.
+#* ''Enfin, en pays de droit écrit, au moins après la '''renaissance''' du droit de Justinien, la femme pouvait avoir des paraphernaux dont elle gardait la propriété, la jouissance et même l'administration, […].'' {{source|Gabriel Lepointe, ''La Famille dans l'Ancien droit'', Montchrestien, 1947 ; 5{{e}} éd., 1956, p.189}}
+#* ''La '''renaissance''' d'un certain patriotisme de clocher se traduisit par la prolifération des sectes manichéennes et millénaristes.'' {{source|Panayiotis Jerasimof {{pc|Vatikiotis}}, ''L’Islam et l’État'', 1987, traduction d’Odette {{pc|Guitard}}, 1992}}
+# {{vieux|fr}} Nom donnée à des laines issus du [[recyclage]] par [[carbonisage]] de tissus anciens contenant de la laine et du coton ou par [[effilochage]] de vieux vêtements en laine. [[laine renaissance|Laine renaissance]]
+
+==== {{S|apparentés}} ====
+* [[renaître]]
+* [[renaissant]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|de}} : {{trad+|de|Wiedergeburt}}
+* {{T|en}} : {{trad+|en|rebirth}} (1, 2), {{trad+|en|renaissance}} (3), {{trad+|en|revival}}
+* {{T|zh}} : {{trad+|zh|复兴|tr=fùxīng|tradi=復興}}
+* {{T|hr}} : {{trad-|hr|preporod}}
+* {{T|es}} : {{trad+|es|renacimiento}}
+* {{T|eo}} : {{trad-|eo|renaskiĝo}}
+* {{T|el}} : {{trad+|el|αναγέννηση|R=anayénnisi|f}}
+* {{T|mt}} : {{trad-|mt|qawmien}}, {{trad-|mt|rinaxximent}}
+* {{T|nl}} : {{trad+|nl|renaissance}}
+* {{T|pl}} : {{trad+|pl|odrodzenie|n}}, {{trad+|pl|renesans|m}}, {{trad-|pl|Renesans|m}}
+* {{T|cs}} : {{trad-|cs|znovuzrození|n}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+* {{écouter|lang=fr|France (Nancy)||audio=LL-Q150 (fra)-VictorDtmtc-renaissance.wav}}
+
+=== {{S|voir aussi}} ===
+* {{WP}}
+
+=== {{S|références}} ===
+* {{R:DAF8}}

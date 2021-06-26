@@ -1,0 +1,84 @@
+{{voir|cothurné}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: ''([[#Nom commun 1|Nom commun 1]])'' Du {{étyl|la|fr|mot=cothurnus}}{{refnec|lang=fr}}.
+: ''([[#Nom commun 2|Nom commun 2]])'' {{cf|co-|thurne}}{{refnec|lang=fr}}.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|kɔ.tyʁn}}
+[[Image:Cothurne-DicAnt-Ang.jpg|thumb|Paire de '''cothurnes''' ''(1)'' portés dans l’Antiquité, d’après William Smith.]]
+'''cothurne''' {{pron|kɔ.tyʁn|fr}} {{m}}
+# {{lexique|Antiquité|fr}} Sorte de [[chaussure]] [[montante]] que portaient les [[ancien]]s [[Grec]]s, [[entourant]] le [[pied]] et une partie du [[mollet]].
+#* ''Les capitaines, portant des '''cothurnes''' de bronze, s’étaient placés dans le chemin du milieu, sous un voile de pourpre à franges d’or, qui s’étendait depuis le mur des écuries jusqu’à la première terrasse du palais ; […]''. {{source|{{w|Gustave Flaubert}}, ''{{w|Salammbô}}'', 1862, {{ws|Salammbô/Le Festin|chapitre I}}}}.
+## {{lexique|théâtre|fr}} [[brodequin|Brodequin]] de [[cuir]] à [[semelle]] très [[épais]]se dont les [[acteur]]s [[tragique]]s se servaient dans la représentation des [[tragédie]]s pour [[paraître]] d’une [[taille]] plus élevée, qui [[couvrait]] le [[gras de la jambe]], et était lié sous le [[genou]], et faisait paraître la [[taille]] plus belle.
+#* ''Ils se tiennent sur des '''cothurnes''' ; c’est une chaussure haute quelquefois de quatre ou cinq pouces.'' {{source|abbé Barthélémy, ''Voyage du jeune Anacharsis en Grèce dans le milieu du IVe siècle'', 3e édit. Paris, 1790}}
+#* ''L’immense, dans Eschyle, est une volonté. C’est aussi un tempérament, Eschyle invente le '''cothurne''', qui grandit l’homme, et le masque, qui grossit la voix.'' {{source|{{w|Victor Hugo}}, ''William Shakespeare'', 1864, {{ws|William Shakespeare (Victor Hugo)/I/IV|première partie, livre IV}}}}
+#* ''Si cette Muse, à qui, Monsieur, vous n’êtes rien,''&lt;br
+/&gt;''Avait l’honneur de vous connaître, croyez bien''&lt;br
+/&gt;''Qu’en vous voyant si gros et bête comme une urne,''&lt;br
+/&gt;''Elle vous flanquerait quelque part son '''cothurne'''.'' {{source|{{w|Edmond Rostand}}, ''{{w|Cyrano de Bergerac (Rostand)|Cyrano De Bergerac}}'', 1897, {{ws|Cyrano de Bergerac (Rostand)/Acte I|acte I, scène IV}}}}
+#* {{vieilli|fr}} ''Chausser le '''cothurne''','' faire des tragédies, prendre un ton élevé et pathétique, dans une occasion, dans un ouvrage qui ne le demande pas.
+#* ''Mais quoi ! je chausse ici le '''cothurne''' tragique !&lt;br
+/&gt;Reprenons au plus tôt le brodequin comique,&lt;br
+/&gt;Et d’objets moins affreux songeons à te parler.'' {{source|{{w|Nicolas Boileau}}, ''{{w|Satires (Boileau)|Satires}}'', 1666, {{ws|Boileau - Œuvres poétiques/Satires/Satire X|Satire X}}}}
+# {{par ext}} [[tragédie|Tragédie]], symbole du genre tragique, par opposition au [[brodequin]] ou à la [[socque]] qui est celui du genre comique.
+#* ''La masque et les '''cothurnes''', le maquillage qui réduit et accuse le visage dans ses éléments essentiels, le costume qui exagère et simplifie, cet univers sacrifie tout à l’apparence, et n’est fait que pour l’œil.'' {{source|{{ouvrage |prénom=Albert |nom=Camus |titre=Le mythe de Sisyphe |éditeur=Gallimard |lieu= |année=1942}}, page 113}}
+#* ''Voilà des vers qui sont dignes du '''cothurne'''.''
+#* ''Quitte ce langage tragique, et mets bas le '''cothurne'''.''
+#* ''Quitter le brodequin pour prendre le '''cothurne''','' abandonner le théâtre comique pour le théâtre tragique.
+# [[chaussure|Chaussure]] [[montant]] jusqu’au [[mollet]] et [[lacé]]e ; les [[lacet]]s de ces souliers.
+#* ''Justine s’agenouilla, défit les '''cothurnes''' des souliers, déchaussa sa maîtresse, qui nonchalamment étendue sur un fauteuil à ressorts, au coin du feu, bâillait en se grattant la tête.'' {{source|{{Citation/Honoré de Balzac/La Peau de chagrin/1855|119}}}}
+#* ''Nous sommes partis par une nuit plutôt nocturne&lt;br
+/&gt;Nous quatre Dudule le gros Victor et l’Amnésique&lt;br
+/&gt;Nous avions collé des semelles crêpes à nos '''cothurnes'''&lt;br
+/&gt;J’portais les outils la pince-monseigneur l’chalumeau oxhydrique'' {{source|{{w|Boris Vian}}, ''Le Tango interminable des perceurs de coffres-forts''. Chanson interprétée en 1958 par {{w|Les Frères Jacques}}.}}
+
+==== {{S|dérivés}} ====
+* [[cothurné]]
+
+==== {{S|vocabulaire}} ====
+* {{voir thésaurus|fr|chaussure}}
+; chaussures d’acteurs antiques
+* [[brodequin]]
+* [[socque]]
+
+==== {{S|traductions}} ====
+{{trad-début|(Antiquité) Sorte de chaussure montante que portaient les anciens Grecs, entourant le pied et une partie du mollet.}}
+* {{T|it}} : {{trad+|it|coturno|m}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-rég|kɔ.tyʁn|mf=oui}}
+'''cothurne''' {{pron|kɔ.tyʁn|fr}} {{mf}}
+# {{argot|fr}} [[camarade|Camarade]] de [[chambrée]] ou de [[cellule]].
+#* ''L’avenir de la RDA et celui, plus généralement, de l’Allemagne suscitent davantage de polémiques : entre Hansi, qui ne jure que par Bakounine et Mühsam, et son '''cothurne''' néo-nazi, les choses dérapent vite, en effet.'' {{source|{{nom w pc|Olivier|Guez}} et {{nom w pc|Jean-Marc|Gonin}}, ''{{w|La Chute du Mur}}'', {{w|Le Livre de Poche}}, 2011, {{ISBN|978-2-253-13467-1}}}}
+#* ''Dans la chambre, son '''cothurne''' est penché sur son bureau en train de pougner, comme tous les soirs. On dirait qu'il bosse des sciences de l'ingénieur, ce qu'il y a de plus chiant au monde.'' {{source|Emmanuel Arnaud, ''Le théorème de Kropst'', éd. Anne-Marie Métailié, 2012}}
+
+==== {{S|variantes orthographiques}} ====
+* [[coturne]]
+
+==== {{S|synonymes}} ====
+* [[copiaule]]
+
+==== {{S|traductions}} ====
+{{trad-début}}
+* {{T|eu}} : {{trad+|eu|gelakide}}
+{{trad-fin}}
+
+=== {{S|prononciation}} ===
+
+* {{écouter|lang=fr|France (Grenoble)||audio=LL-Q150 (fra)-Tamahashi-cothurne.wav}}
+
+==== {{S|homophones|fr}} ====
+* [[coturne]]
+
+=== {{S|anagrammes}} ===
+* [[chourent]] {{cf|chourer}}
+
+=== {{S|références}} ===
+* {{R:Littré}}
+* {{R:DAF8}}
+* {{R:TLFi}}
+
+[[Catégorie:Chaussures en français]]

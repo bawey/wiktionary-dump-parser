@@ -9,7 +9,7 @@ public interface WiktionaryDumpConverter {
 
     public Iterable<WiktionaryEntry> convertDumpRecords(Collection<WiktionaryDumpRecord> records);
 
-    public default WiktionaryEntry convertDumpRecord(WiktionaryDumpRecord record) {
-        return this.convertDumpRecords(Collections.singletonList(record)).iterator().next();
+    public default Iterable<WiktionaryEntry> convertDumpRecord(WiktionaryDumpRecord record) {
+        return this.convertDumpRecords(Collections.singletonList(record));
     }
 }

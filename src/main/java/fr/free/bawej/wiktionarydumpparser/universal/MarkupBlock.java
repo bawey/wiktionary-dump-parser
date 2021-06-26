@@ -18,7 +18,7 @@ public class MarkupBlock {
         private String rawHeader;
         private MarkupBlock nextOfKin;
 
-        public Builder setRawHeader(String rawHeader){
+        public Builder setRawHeader(String rawHeader) {
             this.rawHeader = rawHeader;
             return this;
         }
@@ -28,21 +28,21 @@ public class MarkupBlock {
             return this;
         }
 
-        public Builder setNextOfKin(MarkupBlock nextOfKin){
+        public Builder setNextOfKin(MarkupBlock nextOfKin) {
             this.nextOfKin = nextOfKin;
             return this;
         }
 
-        public MarkupBlock build(){
+        public MarkupBlock build() {
             return new MarkupBlock(this.rawHeader, this.lines.stream().collect(Collectors.joining("\n")), this.nextOfKin);
         }
     }
 
     public MarkupBlock(String rawHeader, String rawContent, MarkupBlock nextOfKin) {
         this.rawHeader = rawHeader;
-        this.header = rawHeader!= null ? createHeader(rawHeader) : null;
+        this.header = rawHeader != null ? createHeader(rawHeader) : null;
         this.rawContent = rawContent;
-        while(nextOfKin != null && nextOfKin.getLevel() >= this.getLevel()){
+        while (nextOfKin != null && nextOfKin.getLevel() >= this.getLevel()) {
             nextOfKin = nextOfKin.getParent();
         }
         this.parent = nextOfKin;
@@ -64,7 +64,7 @@ public class MarkupBlock {
         return header != null ? header.getLevel() : 0;
     }
 
-    public MarkupBlock getParent(){
+    public MarkupBlock getParent() {
         return this.parent;
     }
 
@@ -72,7 +72,7 @@ public class MarkupBlock {
         return rawContent;
     }
 
-    public MarkupHeader getHeader(){
+    public MarkupHeader getHeader() {
         return this.header;
     }
 
@@ -81,13 +81,20 @@ public class MarkupBlock {
         return this.header != null;
     }
 
+    public List<MarkupBlock> getPreorderSubtree() {
+        List<MarkupBlock> list = new LinkedList<>();
+        list.add(this);
+        this.getChildren().stream().map(MarkupBlock::getPreorderSubtree).forEach(list::addAll);
+        return list;
+    }
 
     /**
      * Override it if need be to create headers using different rules
+     *
      * @param rawHeader
      * @return
      */
-    protected MarkupHeader createHeader(String rawHeader){
+    protected MarkupHeader createHeader(String rawHeader) {
         return new MarkupHeader(rawHeader);
     }
 }

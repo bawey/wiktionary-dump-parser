@@ -1,0 +1,537 @@
+{{voir/orange}}
+
+== {{langue|fr}} ==
+=== {{S|étymologie}} ===
+: {{siècle|lang=fr|XIII}}{{R|TLFi}} De l’{{étyl|it|fr|mot=arancia}}{{R|TLFi}} apparenté à l’espagnol ''{{lien|naranja|es}}'', de l’arabe {{lien|نارنج|ar|tr=naranj|sens=bigarade, orange amère}}, emprunté au persan {{lien|نارنگ|fa|tr=nârang}}, du sanskrit [[नारङ्ग]], nāraṅga, « oranger ». Le {{pron|o|fr}} initial s’explique par la ville d’{{lien|Orange|fr}}{{R|TLFi}}, le fruit provenant du sud du pays (voir la citation de Mondeville [[orange#fro|ci-dessous]] qui fait venir le fruit de Gênes) ou par assimilation à ''{{lien|or|fr}}''{{R|Littré}}, à cause de la couleur {{cf|aurantius|auratus|lang=la}} en latin.
+: L’ancien français ''pomme (d’)orange'' est le calque de l’{{calque|it|fr|mot=melarancia|sens=orange}}, ''{{lien|pomme|lang=fro}}'' en ancien français signifiait « [[fruit]] »), ce qui explique la forme du mot dans plusieurs langues (''[[pomeranč]]'' en tchèque, ''[[pomarańcza]]'' en polonais).
+: Le mot désignait{{R|TLFi}} la {{lien|bigarade|fr}} ou orange amère. Au {{siècle2|XVI}} siècle, les Portugais ont apporté de Chine l’orange douce, notre orange actuelle, de là la construction de « pomme/fruit de Chine » dans certaines langues {{cf|Apfelsine|lang=de}} en allemand, ''{{lien|sinaasappel|nl}}'' en néerlandais.
+
+=== {{S|nom|fr|num=1}} ===
+{{fr-rég|ɔ.ʁɑ̃ʒ}}
+[[File:Orange-Fruit-Pieces.jpg|thumb|Des '''oranges''']]
+'''orange''' {{pron|ɔ.ʁɑ̃ʒ|fr}} {{f}}
+# {{agrumes|fr}} [[fruit#fr|Fruit]] de l’[[oranger]], [[agrume]] de couleur orangée et de forme sphérique, composé d’une [[écorce]] orange avec une chair juteuse et divisé en loges par des cloisons.
+#* ''C’est ainsi que vers la fin de l’hiver, comme chaque année, garçons et filles, durant un mois, furent occupés à la cueillette des '''oranges''' dans le domaine du pacha.'' {{source|{{w|Out-el-Kouloub}}, « Zariffa », dans ''Trois Contes de l’Amour et de la Mort'', 1940}}
+#* […]'' non seulement une visite, mais un cadeau !&lt;br
+/&gt;– Voulez-vous que je l’épluche ! offre Rose, sans malice.&lt;br
+/&gt;La mère Mélie refuse avec effarement.&lt;br
+/&gt;Éplucher mon '''orange''' ! mais alors je ne l’aurais plus ! non ! non ! Je veux la garder ! Je ne la mangerai pas, jamais ! je veux la voir tout le temps.&lt;br
+/&gt;Elle en a une suffocation.&lt;br
+/&gt;– Je ne vais pourtant pas manger une '''orange''' de visite !'' {{source|{{w|Léon Frapié}}, « La Bonne Visite », dans ''Les Contes de la maternelle'', éditions Self, 1945, pages 38-39}}
+#* ''Le chercheur Paul Rozin a proposé à un groupe d’étudiants de boire du jus d’'''orange''' frais sorti d’une bouteille, puis le même jus dans lequel avait baigné un cafard. Personne n’a voulu goûter au deuxième.''{{source|Bruno Parmentier, ''Manger tous et bien'', 2012}}
+# {{désuet|fr}} [[oranger#fr|Oranger]].
+#* ''Fleur d’'''orange''','' fleur d’oranger.
+#* ''De l’eau de fleur d’'''orange'''.''
+#* ''Un bouquet de fleurs d’'''orange'''.''
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[eau de fleur d’oranger]]
+* [[esprit de fleurs d’oranger]]
+* [[essence de fleurs d’orangers]]
+* [[essence d’orange]]
+* [[essence d’orange amère]]
+* [[fleur d’orange]]
+* [[fleur d’oranger]]
+* [[fruitier-oranger]]
+* [[glisser sur une pelure d’orange]] (échouer par le fait d’un minime accident)
+* [[huile de fleurs d’oranger]]
+* [[jus d’orange]]
+* [[marmelade d’orange]]
+* [[nectar d’orange]]
+* [[orangé]]
+* [[orange à cochons]]
+* [[orange à jus]]
+* [[orange à nombril]]
+* [[orange amère]]
+* [[orange de Chine]]
+* [[orange de la Chine]]
+* [[orange de Limousin]]
+* [[orange de Séville]]
+* [[orange de table]]
+* [[orange douce]]
+* [[orange givrée]]
+* [[orange sanguine]]
+* [[orangeade]]
+* [[oranger]]
+* [[oranger amer]]
+* [[oranger doux]]
+* [[orangeraie]]
+* [[orangère]]
+* [[orangerie]]
+* [[orangesse]]
+* [[orangette]]
+* [[peau d’orange]]
+* [[pomme d’orange]]
+* [[vin d’orange]]
+{{)}}
+
+==== {{S|phrases}} ====
+* [[quand on a pressé l’orange, on jette l’écorce]] (il arrive souvent qu’après avoir tiré de quelqu’un tous les services qu’il pouvait rendre, on le dédaigne et on l’éloigne)
+
+==== {{S|traductions}} ====
+{{trad-début|Fruit de l’oranger}}
+* {{T|conv}} : ''{{trad+|conv|Citrus × aurantium}}''
+* {{T|abx}} : {{trad--|abx|aranghita}}
+* {{T|af}} : {{trad+|af|lemoen}}
+* {{T|akz}} : {{trad--|akz|yalàaha}}
+* {{T|sq}} : {{trad+|sq|portokalli}}
+* {{T|de}} : {{trad+|de|Orange|f}}, {{trad+|de|Apfelsine|f}}
+* {{T|am}} : {{trad-|am|ብርቱካን}}
+* {{T|en}} : {{trad+|en|orange}}, {{trad+|en|sweet orange}}
+* {{T|ar}} : {{trad-|ar|برتقال|tr=burtuqāla}}, {{trad-|ar|نارنج}}
+* {{T|akr}} : {{trad--|akr|moli}}
+* {{T|hy}} : {{trad+|hy|նարինջ|tr=narindj}}
+* {{T|az}} : {{trad+|az|portağal}}
+* {{T|ba}} : {{trad--|ba|әфлисун}}
+* {{T|be}} : {{trad-|be|апельсін|R=apelʹsîn}}
+* {{T|br}} : {{trad+|br|aouraval}}, {{trad-|br|oranjez}}
+* {{T|bg}} : {{trad-|bg|портокал|R=portokal}}
+* {{T|ca}} : {{trad+|ca|taronja}}
+* {{T|shy}} : {{trad--|shy|čina}}
+* {{T|czn}} : {{trad--|czn|ntzee tunu}}
+* {{T|zh}} : {{trad+|zh|橙|R=chéng}}
+* {{T|ko}} : {{trad+|ko|오렌지|R=orenji}}, {{trad+|ko|귤|R=gyul}}
+* {{T|kw}} : {{trad-|kw|owraval}}
+* {{T|co}} : {{trad+|co|aranciu|m}}, {{trad-|co|citrò|m}}
+* {{T|hr}} : {{trad+|hr|narandža}}
+* {{T|da}} : {{trad+|da|appelsin}}
+* {{T|es}} : {{trad+|es|naranja}}
+* {{T|eo}} : {{trad+|eo|oranĝo}}
+* {{T|et}} : {{trad+|et|apelsin}}
+* {{T|fo}} : {{trad-|fo|appilsin}}
+* {{T|fi}} : {{trad+|fi|appelsiini}}, ({{trad+|fi|pomeranssi}})
+* {{T|fy}} : {{trad-|fy|sinesappel}}
+* {{T|gd}} : {{trad-|gd|orainsear}}
+* {{T|gag}} : {{trad--|gag|portokal}}
+* {{T|gallo}} : {{trad--|gallo|pome-d’oranje}}
+* {{T|cy}} : {{trad+|cy|oren}}, {{trad-|cy|aurafal}}
+* {{T|ka}} : {{trad+|ka|ფორთოხალი|tr=p'ort'okali}}
+* {{T|el}} : {{trad+|el|πορτοκάλι|tr=portokáli}}
+* {{T|gu}} : {{trad+|gu|કેસરી}}
+* {{T|haq}} : {{trad--|haq|ichúngwa}}
+* {{T|he}} : {{trad+|he|תפוז}}
+* {{T|hi}} : {{trad+|hi|केसरी|R=kesarī}}
+* {{T|hu}} : {{trad+|hu|narancs}}
+* {{T|io}} : {{trad+|io|oranjo}}
+* {{T|id}} : {{trad+|id|jeruk manis}}
+* {{T|it}} : {{trad+|it|arancia}}, {{trad+|it|arancio}}
+* {{T|ja}} : {{trad+|ja|オレンジ|R=orenji}}
+* {{T|kab}} : {{trad--|kab|tchina}}
+* {{T|avk}} : {{trad--|avk|kramte}}
+* {{T|ku}} : {{trad+|ku|pirteqal}}
+* {{T|la}} : {{trad-|la|aurantius}}, {{trad-|la|aurantium}}
+* {{T|lv}} : {{trad+|lv|apelsīns}}
+* {{T|lt}} : {{trad+|lt|apelsinas}}
+* {{T|mg}} : {{trad+|mg|voasary}}
+* {{T|gv}} : {{trad-|gv|orange}}, {{trad-|gv|oranje}}
+* {{T|yua}} : {{trad--|yua|china}}
+* {{T|mn}} : {{trad-|mn|апелсин|R=apelsin}}
+* {{T|nl}} : {{trad+|nl|sinaasappel}}, {{trad+|nl|appelsien}}
+* {{T|fra-nor}} : {{trad--|fra-nor|poume d'oraunge}}
+* {{T|no}} : {{trad+|no|appelsin}}
+* {{T|oc}} : {{trad+|oc|irange}}, {{trad-|oc|arange}}
+* {{T|pap}} : {{trad--|pap|apelsina}}, {{trad--|pap|apusina}}
+* {{T|fa}} : {{trad+|fa|پرتقال|tr=porteqâl}}
+* {{T|pih}} : {{trad--|pih|ohren}}
+* {{T|pl}} : {{trad+|pl|pomarańcza}}
+* {{T|pt}} : {{trad+|pt|laranja}}
+* {{T|ro}} : {{trad+|ro|portocală}}
+* {{T|ru}} : {{trad+|ru|апельсин|R=apělʹsin}}
+* {{T|se}} : {{trad--|se|appelsiidna}}
+* {{T|sr}} : {{trad-|sr|наранџа|R=narandža}}
+* {{T|zdj}} : {{trad--|zdj|trunɗa}}
+* {{T|sk}} : {{trad+|sk|pomaranč}}
+* {{T|sl}} : {{trad+|sl|pomaranča}}
+* {{T|sv}} : {{trad+|sv|apelsin}}
+* {{T|sw}} : {{trad+|sw|chungwa}}
+* {{T|tl}} : {{trad-|tl|dalandán}}
+* {{T|crh}} : {{trad--|crh|portaqal}}
+* {{T|tt}} : {{trad+|tt|әфлисун}}
+* {{T|cs}} : {{trad+|cs|pomeranč}}
+* {{T|th}} : {{trad+|th|ส้ม|tr=sôm}}
+* {{T|tourangeau}} : {{trad--|tourangeau|pombronge}}
+* {{T|tr}} : {{trad+|tr|portakal}}
+* {{T|tk}} : {{trad-|tk|pyrtykal}}
+* {{T|uk}} : {{trad+|uk|апельсин|tr=apělʹsin}}
+* {{T|vi}} : {{trad+|vi|cam}}
+* {{T|msn}} : {{trad--|msn|m̄öl}}
+{{trad-fin}}
+
+=== {{S|nom|fr|num=2}} ===
+{{fr-inv|ɔ.ʁɑ̃ʒ}}
+'''orange''' {{pron|ɔ.ʁɑ̃ʒ|fr}} {{m}} {{invar}}
+# [[couleur|Couleur]] tertiaire composée à partir du [[rouge]] et du [[jaune]].
+#* ''Mais dans le même temps qu'elle admirait les robes, Francie éprouvait un étrange malaise. Ses yeux voyaient bien les couleurs, le cerise, l’'''orange''', le bleu vif, le rouge et le jaune, mais elle avait l’impression qu'une chose sournoise se cachait derrière les costumes : […].'' {{source|{{w|Betty Smith}}, ''Le lys de Brooklyn'', traduit par Maurice Beerblock, 1947, Éditions Belfond, 2014, chapitre 4}}
+#* ''Des bleus laiteux, des vestes crème, '''orange''' éteint, des robes beiges.'' {{source|{{w|Philippe Delerm}}, ''La bulle de Tiepolo'', Gallimard, 2005, collection Folio, page 49.}}
+# {{ellipse|fr}} {{term|code routier}} [[feu orange|Feu orange]].
+#* ''Point rassurant tout de même, la quasi totalité des conducteurs français savent qu'il ne faut pas passer à l''''orange''' et que la ceinture de sécurité est obligatoire à l'arrière.''{{source|{{w| Le Dauphiné libéré}}, 25 mai 2016.}}
+
+==== {{S|notes}} ====
+: La radiation électromagnétique correspondante se situe dans la gamme de longueur d’onde 580-620 [[nanomètre]]s. — {{couleur|#ff4000}}{{couleur|#ff6000}}{{couleur|#ff8000}}
+
+==== {{S|dérivés}} ====
+* [[mimosa orange]]
+* [[mine orange]], [[mine-orange]]
+* [[orange de périnone]]
+* [[orange de xylénol]]
+* [[orangir]]
+
+==== {{S|traductions}} ====
+{{trad-début|Couleur}}
+* {{T|akz}} : {{trad--|akz|yalàaha}}
+* {{T|de}} : {{trad+|de|Orange}} ({{trad+|de|Farbe}})
+* {{T|en}} : {{trad+|en|orange}}
+* {{T|hy}} : {{trad+|hy|նարնջագույն|tr=narndjaguyn}}
+* {{T|eu}} : {{trad+|eu|laranja}}
+* {{T|be}} : {{trad-|be|оранжево}} (oranževo)
+* {{T|bg}} : {{trad+|bg|оранжев|tr=oranžev}}
+* {{T|ca}} : {{trad+|ca|taronja}}
+* {{T|shy}} : {{trad--|shy|acini}}
+* {{T|zh}} : {{trad+|zh|橙色|R=chéngsè}}
+* {{T|hr}} : {{trad+|hr|narančasta}}, {{trad+|hr|narandžasta}}
+* {{T|da}} : {{trad+|da|orange}}
+* {{T|es}} : {{trad+|es|naranja}}
+* {{T|eo}} : {{trad+|eo|oranĝa}}
+* {{T|et}} : {{trad+|et|oranž}}
+* {{T|fi}} : {{trad+|fi|oranssi}}
+* {{T|gallo}} : {{trad--|gallo|oranje}}
+* {{T|cy}} : {{trad+|cy|oren}}
+* {{T|el}} : {{trad+|el|πορτοκαλί|tr=portokáli}}
+* {{T|he}} : {{trad+|he|כתום|tr=katóm}}
+* {{T|hi}} : {{trad+|hi|केसर|R=kesra}}
+* {{T|hu}} : {{trad+|hu|narancssárga}}
+* {{T|io}} : {{trad+|io|oranjea}}
+* {{T|id}} : {{trad+|id|oranye}}, {{trad+|id|jingga}}
+* {{T|it}} : {{trad+|it|arancione}}, {{trad+|it|arancio}}
+* {{T|ja}} : {{trad+|ja|オレンジ色|R=orenjiiro}}, {{trad+|ja|橙色|tr=daidaiiro}}
+* {{T|kk}} : {{trad-|kk|қызылсары|tr=qızılsarı}}
+* {{T|la}} : {{trad+|la|aureus}}
+* {{T|lv}} : {{trad+|lv|oranžs}}
+* {{T|lt}} : {{trad-|lt|oranžinė}}
+* {{T|mi}} : {{trad-|mi|karaka}}
+* {{T|nl}} : {{trad+|nl|oranje}}
+* {{T|no}} : {{trad+|no|oransje}}
+* {{T|oc}} : {{trad-|oc|iranjat}}, {{trad+|oc|irange}}
+* {{T|myp}} : {{trad--|myp|biísi}}
+* {{T|pl}} : {{trad+|pl|pomarańcz}}
+* {{T|pt}} : {{trad+|pt|laranja}} ({{trad+|pt|cor}})
+* {{T|ro}} : {{trad+|ro|portocaliu}}
+* {{T|ru}} : {{trad+|ru|оранжевый}} ({{trad+|ru|цвет}}) (oranžěvyĭ cvět)
+* {{T|sk}} : {{trad-|sk|oranžová}}
+* {{T|sl}} : {{trad-|sl|oranžna}}
+* {{T|sv}} : {{trad+|sv|orange}}
+* {{T|cs}} : {{trad+|cs|oranžový}}
+* {{T|th}} : {{trad-|th|ออเรนจ์}}
+* {{T|tsolyáni}} : {{trad--|tsolyáni|hlatsénikh}}
+* {{T|tr}} : {{trad+|tr|turuncu}}
+* {{T|vi}} : ({{trad+|vi|màu}}) {{trad+|vi|cam}}
+{{trad-fin}}
+
+=== {{S|adjectif|fr}} ===
+{{fr-inv|ɔ.ʁɑ̃ʒ}}
+{{fr-rég|ɔ.ʁɑ̃ʒ}}
+'''orange''' {{pron|ɔ.ʁɑ̃ʒ|fr}} {{mf}}, considéré comme invariable par les grammairiens et les dictionnaires classiques, mais également utilisé avec un s au pluriel
+# Qui est d’une couleur entre le [[jaune]] et le [[rouge]].
+#* ''Son peigne d’ambre divisa la masse soyeuse en longs filets '''orange''' pareils aux sillons que le gai laboureur trace à l’aide d’une fourchette dans de la confiture d’abricots.'' {{source|{{nom w pc|Boris|Vian}}, ''{{w|L’écume des jours}}'', {{w|Le Livre de poche}}, 1996, page 21}}
+#* ''Son maître a alors photoshopé une image de son chat jaune, ajoutant les détails '''orange''' et noirs, pour le faire ressembler au célèbre Pokémon.'' {{source|journal CNEWS, 4 septembre 2020, page 4}}
+#* ''Et “l’affaire des assiettes '''oranges'''” ne fut pas une errance de la mode mais la révélation de l’ampleur d’une ambition : on irait jusqu’à inventer des couleurs.'' {{source|François-Olivier Rousseau, ''Andrée Putman'', 1989, page 14}}
+#* ''Il faudrait rédiger un guide d’identification des espèces pour aider les responsables des pouvoirs publics à reconnaître les différents spécimens et aider les commerçants à faire des déclarations cohérentes, ne serait-ce que pour éviter par exemple la confusion entre la mère loche et la loche à taches '''oranges'''.'' {{source|''Ressources marines et commercialisation'', Bulletin de la CPS n° 6, avril 2000, page 29}}
+#* ''Oh eh oh, une maison carrée blanche avec des volets '''oranges''' avec des rideaux qui cachent juste la moitié de chaque fenêtre avec des fleurs devant avec une pelouse avec du gravier dans l’allée avec une barrière mauve.'' {{source|Antoine Gallien, ''Verdure'', {{w|Éditions du Seuil}} 1967, page 71}}
+# {{Canada|fr}} {{lexique|politique|fr}} ''(À cause de la couleur du logo du parti)'' Qui se rapporte au {{w|Nouveau parti démocratique}} du Canada.
+#* ''Avec cette logique en tête, les libéraux font valoir en coulisse qu’une victoire dans Trinity-Spadina —présentée pour l’occasion comme un bastion '''orange'''— viendra prouver que ce sont les libéraux et non les néodémocrates qui incarnent cette alternative.'' {{source|[http://www.ledevoir.com/politique/canada/412282/un-avant-gout-de-2015-aux-elections-partielles ''Le Devoir''], 30 juin 2014}}
+
+==== {{S|notes}} ====
+{{attention}} Pour le Littré et le dictionnaire de l’Académie française, « orange » n’est jamais un adjectif, mais est utilisé elliptiquement pour « de couleur orange » (où « orange » est un substantif en apposition). Les autres dictionnaires classiques (Robert, Larousse, Lexis), ainsi que la grammaire de Grevisse (2007, § 555 b) 1°), admettent « orange » comme adjectif invariable.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[agent orange]]
+* [[astrild à joues orange]]
+* [[bolet orange]]
+* [[ceinture orange]]
+* [[chien français blanc et orange]]
+* [[code orange]]
+* [[cône orange]]
+* [[coryllis à front orange]]
+* [[feu orange]]
+* [[français blanc et orange]]
+* [[grand anglo-français blanc et orange]]
+* [[liste orange]]
+* [[loricule à front orange]]
+* [[manakin à bandeau orange]]
+* [[martinet orange]] (''papillon'')
+* [[naine orange]]
+* [[orangeâtre]]
+* [[oranger]] (''Verbe'')
+* [[orangir]] {{familier|nocat=1}}
+* [[papillon orange]]
+* [[perruche à ventre orange]]
+* [[poisson-clown orange]]
+* [[hoplostèthe orange]]
+* [[perruche à ventre orange]]
+* [[psittacule à poitrine orange]]
+{{)}}
+
+==== {{S|vocabulaire}} ====
+; Sens politique canadien
+* [[bleu]] ''(pour le Parti conservateur)''
+* [[rouge]] ''(pour le Parti libéral)''
+* [[vert]] ''(pour le Parti vert)''
+
+==== {{S|traductions}} ====
+{{trad-début|Qui est d’une couleur entre le jaune et le rouge}}
+* {{T|af}} : {{trad+|af|oranje}}
+* {{T|de}} : {{trad+|de|orange}}
+* {{T|en}} : {{trad-|en|orange-coloured}}, {{trad+|en|orange}}
+* {{T|ar}} : {{trad-|ar|برتقالي|R=burtuqaaliy}}
+* {{T|hy}} : {{trad+|hy|նարնջագույն|tr=narndjaguyn}}
+* {{T|ca}} : {{trad+|ca|taronja}}
+* {{T|zh}} : {{trad-|zh|橙色的|R=chéngsède}}
+* {{T|da}} : {{trad+|da|orange}}
+* {{T|es}} : {{trad+|es|naranja}}, {{trad+|es|anaranjado}}
+* {{T|eo}} : {{trad+|eo|oranĝkolora}}, {{trad+|eo|oranĝa}}
+* {{T|gallo}} : {{trad--|gallo|oranje}}
+* {{T|ka}} : {{trad-|ka|ნარიჯისფერი|R=narinǰisp’eri}}
+* {{T|el}} : {{trad+|el|πορτοκαλί}}
+* {{T|hi}} : {{trad-|hi|नारंगी का|R=nāraṅgī kā}}
+* {{T|ia}} : {{trad+|ia|orange}}
+* {{T|it}} : {{trad+|it|arancione}},{{trad+|it|arancio}}
+* {{T|ja}} : {{trad+|ja|オレンジ色|R=orenji-iro}}
+* {{T|kk}} : {{trad-|kk|қызылсары|tr=qızılsarı}}
+* {{T|avk}} : {{trad--|avk|kramteukaf}}
+* {{T|lb}} : {{trad-|lb|orange}}
+* {{T|nl}} : {{trad+|nl|oranje}}
+* {{T|no}} : {{trad+|no|orange}}
+* {{T|oc}} : {{trad-|oc|iranjat}}, {{trad-|oc|irange}}
+* {{T|uz}} : {{trad-|uz|puchti}}
+* {{T|pap}} : {{trad--|pap|oraño}}
+* {{T|pl}} : {{trad+|pl|pomarańczowy}}
+* {{T|ro}} : {{trad+|ro|portocaliu}}
+* {{T|ru}} : {{trad+|ru|оранжевый|R=oránževyj}}
+* {{T|cs}} : {{trad+|cs|oranžový}}, {{trad+|cs|pomerančový}}
+* {{T|tsolyáni}} : {{trad--|tsolyáni|hlatsénin}}
+{{trad-fin}}
+
+=== {{S|verbe|fr|flexion}} ===
+{{fr-verbe-flexion|oranger|ind.p.1s=oui|ind.p.3s=oui|sub.p.1s=oui|sub.p.3s=oui|imp.p.2s=oui|'=oui}}
+'''orange''' {{pron|ɔ.ʁɑ̃ʒ|fr}}
+# ''Première personne du singulier du présent de l’indicatif de'' [[oranger]].
+# ''Troisième personne du singulier du présent de l’indicatif de'' [[oranger]].
+# ''Première personne du singulier du présent du subjonctif de'' [[oranger]].
+# ''Troisième personne du singulier du présent du subjonctif de'' [[oranger]].
+# ''Deuxième personne du singulier de l’impératif présent de'' [[oranger]].
+
+=== {{S|prononciation}} ===
+* {{pron-rimes|o|fr}}
+* {{écouter|France (Paris)|o.ʁɑ̃ʒ|audio=Fr-orange.ogg|lang=fr}}
+* {{écouter||o|lang=fr|audio=LL-Guilhelma-fr-orange.wav}}
+* {{écouter|lang=fr|France|audio=LL-Q150 (fra)-Fhala.K-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-GrandCelinien-orange.wav}}
+* {{écouter|lang=fr|France (Lyon)|audio=LL-Q150 (fra)-Lyokoï-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines1-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines2-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines3-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines5-orange.wav}}
+* {{écouter|lang=fr||audio=LL-Q150 (fra)-Aemines4-orange.wav}}
+* {{écouter|lang=fr|France (Paris)|audio=LL-Q150 (fra)-Aemines6-orange.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-WikiLucas00-orange.wav}}
+* {{écouter|lang=fr|France (Toulouse)||audio=LL-Q150 (fra)-Lepticed7-orange.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-Poslovitch-orange.wav}}
+* {{écouter|lang=fr|France (Lyon)||audio=LL-Q150 (fra)-Ltrlg-orange.wav}}
+* {{écouter|lang=fr|France (Vosges)||audio=LL-Q150 (fra)-LoquaxFR-orange.wav}}
+* {{écouter|lang=fr|Suisse (canton du Valais)||audio=LL-Q150 (fra)-DSwissK-orange.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Mecanautes-orange.wav}}
+* {{écouter|lang=fr|France||audio=LL-Q150 (fra)-Julien Baley-orange.wav}}
+
+=== {{S|anagrammes}} ===
+* [[onagre]]
+* [[organe]]
+* [[rongea]]
+
+=== {{S|voir aussi}} ===
+* {{Thésaurus|fr|couleur}}
+* {{WP}}
+* {{Le Dico des Ados}}
+
+=== {{S|références}} ===
+* {{Import:DAF8}}
+{{Références}}
+
+[[Catégorie:Aliments en français]]
+[[Catégorie:Couleurs oranges en français]]
+[[Catégorie:Noms multigenres en français]]
+[[Catégorie:Adjectifs invariables en français]]
+[[Catégorie:Wiktionnaire:Caractères arabes manquants]]
+
+== {{langue|fro}} ==
+=== {{S|étymologie}} ===
+: De l’{{étyl|it|fro|mot=arancia}}{{R|Littré}}.
+
+=== {{S|nom|fro|num=1}} ===
+'''orange''' {{pron||fro}} {{f}}
+# {{fruits|fro}} [[orange#fr|Orange]].
+#* ''Pomme roonde, moienne, bele, citrine, la quele croist en la riviere de Janes (Gênes), et est appellée en franchois pomme d''''orenge'''.'' {{source|{{w|Henri de Mondeville}}}}
+# Oranger.
+#* ''Pour six pommes d''''orange''', trois sols.''
+
+==== {{S|variantes}} ====
+* {{lien|orenge|fro}}
+
+==== {{S|dérivés}} ====
+* {{L|fr}} : {{lien|orange|fr}}
+
+=== {{S|nom|fro|num=2}} ===
+'''orange''' {{pron||fro}} {{f}}
+# {{oiseaux|fro}} Sorte d’{{lien|oiseau|fr}}.
+#* ''Cannespetieres, '''oranges''', flammans, etc.'' {{source|{{w|François Rabelais}}}}
+#* ''Un espagnol sans un jesuite est une perdrix sans '''orange'''.'' {{source|Sat. Mén. page 237}}
+
+=== {{S|références}} ===
+* {{R:Godefroy}}
+{{Références}}
+
+== {{langue|de}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=de}} Du {{étyl|fr|de|mot=orange}}.
+
+=== {{S|adjectif|de}} ===
+'''orange''' {{pron|oˈʀãːʒ|de}}, ''indéclinable''
+# [[orange#fr|Orange]] (adjectif de couleur).
+#* ''Ich ziehe heute das '''orange''' Kleid an.''
+#*: Aujourd’hui, je préfère la robe orange.
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[gelborange]]
+* [[Gemeiner Orangebecherling]]
+* [[Orange Revolution]]
+* [[Orange-Schneckling]]
+* [[Orange-Täubling]]
+* [[Orangeaugen-Helmskink]]
+* [[Orangebäckchen]]
+* [[Orangebauch-Fruchttaube]]
+* [[Orangebauch-Himalayahörnchen]]
+* [[Orangebecherling]]
+* [[Orangeblaufink]]
+* [[orangeblütig]]
+* [[Orangeblütiger Erbsenstrauch]]
+* [[orangebraun]]
+* [[Orangebrauner Afterleistling]]
+* [[Orangebrauner Schattenkolibri]]
+* [[Orangebrauner Scheidenstreifling]]
+* [[orangefarben]]
+* [[Orangefarbene Mehlscheibe]]
+* [[Orangefarbene Teemilbe]]
+* [[Orangefarbene Zackeneule]]
+* [[Orangefarbener Felsenhahn]]
+* [[Orangefarbener Feuerkäfer]]
+* [[Orangefarbener Milchstern]]
+* [[Orangefarbener Wiesen-Ellerling]]
+* [[Orangefarbenes Berufkraut]]
+* [[orangefarbig]]
+* [[Orangefilter]]
+* [[Orangefleck-Waldsänger]]
+* [[orangefuchsig]]
+* [[Orangefuchsiger Hautkopf]]
+* [[Orangefuchsiger Milchling]]
+* [[Orangefuchsiger Schleierling]]
+* [[Orangefuchsiger Raukopf]]
+* [[orangegelb]]
+* [[Orangegelbe Keule]]
+* [[Orangegelber Breitflügelspanner]]
+* [[Orangegelber Frostspanner]]
+* [[Orangegelber Gabelblättling]]
+* [[Orangegelber Scheidenstreifling]]
+* [[Orangehaubenkakadu]]
+* [[Orangekehl-Brillenvogel]]
+* [[Orangekehl-Sonnennymphe]]
+* [[Orangekehlelfe]]
+* [[Orangekehlnymphe]]
+* [[Orangekehliger Springbarsch]]
+* [[Orangeköpfchen]]
+* [[orangerot]]
+* [[Orangerote Becherling]]
+* [[Orangeroter Afterleistling]]
+* [[Orangeroter Becherling]]
+* [[Orangeroter Graustiel-Täubling]]
+* [[Orangeroter Heftelnabeling]]
+* [[Orangeroter Helmling]]
+* [[Orangeroter Heufalter]]
+* [[Orangeroter Ritterling]]
+* [[Orangeroter Träuschling]]
+* [[Orangerotes Habichtskraut]]
+* [[Orangeschneckling]]
+* [[Orangespecht]]
+* [[Orangestreifen-Drückerfisch]]
+* [[Orangestreifen-Falterfisch]]
+* [[Orangetäubling]]
+* [[Orangeton]]
+* [[rotorange]]
+{{)}}
+
+=== {{S|prononciation}} ===
+* {{écouter|(pays?)|oˈʁɒ̃ːʃ|audio=De-orange.ogg|lang=de}}
+
+[[Catégorie:Couleurs en allemand]]
+
+== {{langue|en}} ==
+=== {{S|étymologie}} ===
+: {{date|lang=en}} De l’{{étyl|fro|en|mot=orange}}.
+
+=== {{S|nom|en}} ===
+{{en-nom-rég|ˈɒɹ.ɪndʒ|ˈɔɹ.əndʒ|s=.ɪz}}
+[[Image:Ambersweet oranges.jpg|thumb|oranges]]
+'''orange''' {{pron|ˈɒɹɨn(d)ʒ|en}} {{UK|nocat=1}} ou {{pron|ˈɔɹɪ̈nd͡ʒ|en}} {{US|nocat=1}}, {{CA|nocat=1}} ou {{pron|ˈɑɹɪ̈nd͡ʒ|en}} ''(États-Unis, Côte-Est)''
+# {{agrumes|en}} [[orange#fr-nom|Orange]] (fruit).
+#* ''You can sometimes count every '''orange''' on a tree but never all the trees in a single '''orange'''.''
+#*: On peut parfois compter toutes les oranges dans un arbre, mais jamais tous les arbres dans une seule orange. {{source|A. K.|Ramanujan}}
+# [[orange#fr-nom|Orange]] (couleur).
+# &lt;!-- {{arbres fruitiers|en}} impliqué par {{agrumes|en}} --&gt;[[oranger|Oranger]] (arbre : [[orange tree]]).
+
+==== {{S|dérivés}} ====
+* [[orange tree#en|orange tree]]
+* {{lien|orangish|en}}
+
+=== {{S|adjectif|en}} ===
+'''orange''' {{pron|ˈɒɹɨn(d)ʒ|en}} {{UK|nocat=1}} ou {{pron|ˈɔɹɪ̈nd͡ʒ|en}} {{US|nocat=1}}, {{CA|nocat=1}} ou {{pron|ˈɑɹɪ̈nd͡ʒ|en}} ''(États-Unis, Côte-Est)''
+# [[orange#fr-adj|Orange]].
+
+==== {{S|dérivés}} ====
+{{(}}
+* [[orange-cheeked waxbill]]
+{{)}}
+
+=== {{S|prononciation}} ===
+* {{pron|ˈɒɹ.ɨn(d)ʒ|en}} {{UK|nocat=1}}
+** {{écouter|Royaume-Uni (Londres)|ˈɒɹ.ɨnd͡ʒ|audio=En-uk-orange.ogg|lang=en|titre=}}
+* {{pron|ˈɔɹ.ɪ̈nd͡ʒ|en}} ou {{pron|ˈɑɹ.ɪ̈nd͡ʒ|en}} {{US|nocat=1}}
+** {{écouter|Canada (Colombie-Britannique) {{popu|nocat=1}}|ˈɔɹ.ənd͡ʒ|audio=En-ca-orange.ogg|lang=en|titre=}}
+* {{pron|ɑɹǝndʒ|en}}&lt;ref&gt;{{R:Newman2014|p=76}}&lt;/ref&gt; {{New York|nocat=1}}
+
+=== {{S|voir aussi}} ===
+* {{WP|Orange (fruit)|lang=en}} ''(fruit)''
+* {{WP|Orange (color)|lang=en}} ''(couleur)''
+* {{WP|Orange (word)|lang=en}} ''(mot et étymologies)''
+* {{WP|Orange|lang=en}} ''(tous les sens)''
+
+=== {{S|références}} ===
+{{Références}}
+[[Catégorie:Couleurs en anglais]]
+
+== {{langue|da}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|fr|da|mot=orange}}.
+
+=== {{S|adjectif|da}} ===
+'''orange''' {{pron||da}}
+# [[orange#fr|Orange]] (couleur).
+
+== {{langue|lb}} ==
+=== {{S|étymologie}} ===
+: Du {{étyl|fr|lb|mot=orange}}.
+
+=== {{S|adjectif|lb}} ===
+'''orange''' {{pron|oˈʁɑ̃ːʃ|sv}}
+# [[orange#fr|Orange]] (couleur).
+

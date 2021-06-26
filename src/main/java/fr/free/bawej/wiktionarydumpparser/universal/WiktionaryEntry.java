@@ -1,18 +1,21 @@
 package fr.free.bawej.wiktionarydumpparser.universal;
 
+import fr.free.bawej.wiktionarydumpparser.universal.grammar.LexiGrammaticalType;
+
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class WiktionaryEntry {
     private final String title;
     private final long id;
     private final Locale language;
-    private final ArrayList<WiktionarySense> senses = new ArrayList<>();
+    private final List<DictionaryEntry> dictionaryEntries;
 
     public static class Builder {
         private final String title;
         private final Locale language;
         private final long id;
-        private final List<WiktionarySense> senses = new LinkedList<>();
+        private final List<DictionaryEntry> dictionaryEntries = new LinkedList<>();
 
         public Builder(Locale language, long id, String title) {
             this.title = title;
@@ -20,31 +23,30 @@ public class WiktionaryEntry {
             this.id = id;
         }
 
-        public List<WiktionarySense> getSenses() {
-            return senses;
-        }
-
-        public void addSense(WiktionarySense sense) {
-            senses.add(sense);
+        public Builder addDictionaryEntry(DictionaryEntry entry) {
+            dictionaryEntries.add(entry);
+            return this;
         }
 
         public WiktionaryEntry build() {
-            return new WiktionaryEntry(this.language, this.id, this.title, this.senses);
+            return new WiktionaryEntry(this.language, this.id, this.title, this.dictionaryEntries);
+        }
+
+        public String getTitle() {
+            return title;
+        }
+
+        public Locale getLanguage() {
+            return language;
         }
     }
 
-    private WiktionaryEntry(Locale language, long id, String title) {
+    private WiktionaryEntry(Locale language, long id, String title, List<DictionaryEntry> dictionaryEntries) {
         this.title = title;
         this.language = language;
         this.id = id;
+        this.dictionaryEntries = Collections.unmodifiableList(dictionaryEntries);
     }
-
-    private WiktionaryEntry(Locale language, long id, String title, List<WiktionarySense> senses) {
-        this(language, id, title);
-        this.senses.ensureCapacity(senses.size());
-        this.senses.addAll(senses);
-    }
-
 
     public String getTitle() {
         return title;
@@ -58,7 +60,7 @@ public class WiktionaryEntry {
         return language;
     }
 
-    public List<WiktionarySense> getSenses() {
-        return Collections.unmodifiableList(this.senses);
+    public List<DictionaryEntry> getDictionaryEntries() {
+        return this.dictionaryEntries;
     }
 }
