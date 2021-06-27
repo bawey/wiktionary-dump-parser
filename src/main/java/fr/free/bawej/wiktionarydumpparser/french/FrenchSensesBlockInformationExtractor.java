@@ -15,6 +15,8 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import static fr.free.bawej.wiktionarydumpparser.french.FrenchWiktionarySenses.isSenseLine;
+
 @Component
 public class FrenchSensesBlockInformationExtractor implements WiktionaryMarkupBlockInformationExtractor {
     private static final Logger logger = LoggerFactory.getLogger(FrenchSensesBlockInformationExtractor.class);
@@ -106,8 +108,9 @@ public class FrenchSensesBlockInformationExtractor implements WiktionaryMarkupBl
                 } else if (line.contains("{{n}}")) {
                     traits.add(Gender.NEUTRAL);
                 }
-            } else if (line.startsWith("# ")) {
-                dictEntryBuilder.addSense(new WiktionarySense(line.substring(2)));
+            } else if (isSenseLine(line)) {
+                WiktionarySense.Builder senseBuilder = FrenchWiktionarySenses.prepareBuilderFromRawString(line);
+                dictEntryBuilder.addSense(senseBuilder.build());
             }
         }
         dictEntryBuilder.setGrammaticalSpecification(LexiGrammaticalType.of(traits));

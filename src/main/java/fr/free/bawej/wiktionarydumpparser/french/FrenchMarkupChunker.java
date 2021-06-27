@@ -17,7 +17,6 @@ public class FrenchMarkupChunker implements MarkupChunker {
     private static final Logger logger = LoggerFactory.getLogger(FrenchMarkupChunker.class);
     public static final Pattern headerPattern = Pattern.compile("(=+) \\{\\{([^\\}]*)\\}\\} (=+)");
 
-    private List<WiktionaryMarkupBlock> heritageStack = new LinkedList<>();
 
     @Override
     public boolean isSupported(Locale language) {
@@ -31,12 +30,11 @@ public class FrenchMarkupChunker implements MarkupChunker {
 
     @Override
     public WiktionaryMarkupBlock chunk(WiktionaryMarkup markup) {
+        List<WiktionaryMarkupBlock> heritageStack = new LinkedList<>();
         String[] rawLines = markup.rawContent.split("\n");
 
         WiktionaryMarkupBlock.Builder builder = new WiktionaryMarkupBlock.Builder();
 
-        String bufferedHeader = null;
-        List<String> contents = new LinkedList<>();
         for (int i = 0; i < rawLines.length; ++i) {
             String line = rawLines[i];
 
@@ -52,8 +50,6 @@ public class FrenchMarkupChunker implements MarkupChunker {
                 }
             }
         }
-        // add leftovers to structure
-
         return heritageStack.get(heritageStack.size() - 1);
     }
 }
