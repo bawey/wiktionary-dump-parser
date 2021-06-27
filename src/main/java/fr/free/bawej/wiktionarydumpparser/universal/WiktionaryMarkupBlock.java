@@ -6,17 +6,17 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 
-public class MarkupBlock {
+public class WiktionaryMarkupBlock {
     private final String rawHeader;
     private final String rawContent;
-    private final MarkupHeader header;
-    private final MarkupBlock parent;
-    private final List<MarkupBlock> children;
+    private final WiktionaryMarkupBlockHeader header;
+    private final WiktionaryMarkupBlock parent;
+    private final List<WiktionaryMarkupBlock> children;
 
     public static class Builder {
         private final List<String> lines = new LinkedList<>();
         private String rawHeader;
-        private MarkupBlock nextOfKin;
+        private WiktionaryMarkupBlock nextOfKin;
 
         public Builder setRawHeader(String rawHeader) {
             this.rawHeader = rawHeader;
@@ -28,21 +28,21 @@ public class MarkupBlock {
             return this;
         }
 
-        public Builder setNextOfKin(MarkupBlock nextOfKin) {
+        public Builder setNextOfKin(WiktionaryMarkupBlock nextOfKin) {
             this.nextOfKin = nextOfKin;
             return this;
         }
 
-        public MarkupBlock build() {
-            return new MarkupBlock(this.rawHeader, this.lines.stream().collect(Collectors.joining("\n")), this.nextOfKin);
+        public WiktionaryMarkupBlock build() {
+            return new WiktionaryMarkupBlock(this.rawHeader, this.lines.stream().collect(Collectors.joining("\n")), this.nextOfKin);
         }
     }
 
-    public MarkupBlock(String rawHeader, String rawContent){
+    public WiktionaryMarkupBlock(String rawHeader, String rawContent){
         this(rawHeader, rawContent, null);
     }
 
-    public MarkupBlock(String rawHeader, String rawContent, MarkupBlock nextOfKin) {
+    public WiktionaryMarkupBlock(String rawHeader, String rawContent, WiktionaryMarkupBlock nextOfKin) {
         this.rawHeader = rawHeader;
         this.header = rawHeader != null ? createHeader(rawHeader) : null;
         this.rawContent = rawContent;
@@ -56,11 +56,11 @@ public class MarkupBlock {
         this.children = new LinkedList<>();
     }
 
-    public List<MarkupBlock> getChildren() {
+    public List<WiktionaryMarkupBlock> getChildren() {
         return Collections.unmodifiableList(this.children);
     }
 
-    protected void addChild(MarkupBlock child) {
+    protected void addChild(WiktionaryMarkupBlock child) {
         this.children.add(child);
     }
 
@@ -68,7 +68,7 @@ public class MarkupBlock {
         return header != null ? header.getLevel() : 0;
     }
 
-    public MarkupBlock getParent() {
+    public WiktionaryMarkupBlock getParent() {
         return this.parent;
     }
 
@@ -76,7 +76,7 @@ public class MarkupBlock {
         return rawContent;
     }
 
-    public MarkupHeader getHeader() {
+    public WiktionaryMarkupBlockHeader getHeader() {
         return this.header;
     }
 
@@ -85,10 +85,10 @@ public class MarkupBlock {
         return this.header != null;
     }
 
-    public List<MarkupBlock> getPreorderSubtree() {
-        List<MarkupBlock> list = new LinkedList<>();
+    public List<WiktionaryMarkupBlock> getPreorderSubtree() {
+        List<WiktionaryMarkupBlock> list = new LinkedList<>();
         list.add(this);
-        this.getChildren().stream().map(MarkupBlock::getPreorderSubtree).forEach(list::addAll);
+        this.getChildren().stream().map(WiktionaryMarkupBlock::getPreorderSubtree).forEach(list::addAll);
         return list;
     }
 
@@ -98,7 +98,7 @@ public class MarkupBlock {
      * @param rawHeader
      * @return
      */
-    protected MarkupHeader createHeader(String rawHeader) {
-        return new MarkupHeader(rawHeader);
+    protected WiktionaryMarkupBlockHeader createHeader(String rawHeader) {
+        return new WiktionaryMarkupBlockHeader(rawHeader);
     }
 }

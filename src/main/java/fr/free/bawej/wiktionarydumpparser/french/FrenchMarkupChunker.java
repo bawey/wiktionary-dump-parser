@@ -1,6 +1,6 @@
 package fr.free.bawej.wiktionarydumpparser.french;
 
-import fr.free.bawej.wiktionarydumpparser.universal.MarkupBlock;
+import fr.free.bawej.wiktionarydumpparser.universal.WiktionaryMarkupBlock;
 import fr.free.bawej.wiktionarydumpparser.universal.MarkupChunker;
 import fr.free.bawej.wiktionarydumpparser.universal.WiktionaryMarkup;
 import org.slf4j.Logger;
@@ -17,7 +17,7 @@ public class FrenchMarkupChunker implements MarkupChunker {
     private static final Logger logger = LoggerFactory.getLogger(FrenchMarkupChunker.class);
     public static final Pattern headerPattern = Pattern.compile("(=+) \\{\\{([^\\}]*)\\}\\} (=+)");
 
-    private List<MarkupBlock> heritageStack = new LinkedList<>();
+    private List<WiktionaryMarkupBlock> heritageStack = new LinkedList<>();
 
     @Override
     public boolean isSupported(Locale language) {
@@ -30,10 +30,10 @@ public class FrenchMarkupChunker implements MarkupChunker {
     }
 
     @Override
-    public MarkupBlock chunk(WiktionaryMarkup markup) {
+    public WiktionaryMarkupBlock chunk(WiktionaryMarkup markup) {
         String[] rawLines = markup.rawContent.split("\n");
 
-        MarkupBlock.Builder builder = new MarkupBlock.Builder();
+        WiktionaryMarkupBlock.Builder builder = new WiktionaryMarkupBlock.Builder();
 
         String bufferedHeader = null;
         List<String> contents = new LinkedList<>();
@@ -44,10 +44,10 @@ public class FrenchMarkupChunker implements MarkupChunker {
                 builder.addLine(line);
             }
             if (isBlockOpener(line) || i == (rawLines.length - 1)) {
-                MarkupBlock bufferedBlock = builder.setNextOfKin(heritageStack.isEmpty() ? null : heritageStack.get(0)).build();
+                WiktionaryMarkupBlock bufferedBlock = builder.setNextOfKin(heritageStack.isEmpty() ? null : heritageStack.get(0)).build();
                 heritageStack.add(0, bufferedBlock);
                 if (i < (rawLines.length - 1)) {
-                    builder = new MarkupBlock.Builder().setRawHeader(line);
+                    builder = new WiktionaryMarkupBlock.Builder().setRawHeader(line);
                     logger.info("Line {} should begin a new block!", line);
                 }
             }

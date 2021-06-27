@@ -20,7 +20,7 @@ public class WiktionaryDumpConverterImpl implements WiktionaryDumpConverter {
     }
 
     // TODO: use some caching to store likely handlers by language and block's header - if need be
-    private Optional<WiktionaryMarkupBlockInformationExtractor> getExtractorForLanguageAndBlock(Locale language, MarkupBlock block) {
+    private Optional<WiktionaryMarkupBlockInformationExtractor> getExtractorForLanguageAndBlock(Locale language, WiktionaryMarkupBlock block) {
         return this.blockExtractors.stream().filter(e -> e.isSupported(language, block)).findAny();
     }
 
@@ -36,7 +36,7 @@ public class WiktionaryDumpConverterImpl implements WiktionaryDumpConverter {
         for (WiktionaryDumpRecord dumpRecord : records) {
             WiktionaryEntry.Builder builder = new WiktionaryEntry.Builder(dumpRecord.language(), dumpRecord.id(), dumpRecord.title());
             MarkupChunker chunker = getChunkerForLanguage(dumpRecord.language()).orElseThrow();
-            MarkupBlock root = chunker.chunk(dumpRecord.markup());
+            WiktionaryMarkupBlock root = chunker.chunk(dumpRecord.markup());
 
             root.getPreorderSubtree().stream().forEach(b -> {
                 this.getExtractorForLanguageAndBlock(dumpRecord.language(), b).stream().forEach(e -> e.extractIntoEntryBuilder(b, builder));

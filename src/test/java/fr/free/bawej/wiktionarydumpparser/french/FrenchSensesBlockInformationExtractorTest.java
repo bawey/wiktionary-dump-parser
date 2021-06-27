@@ -1,9 +1,8 @@
 package fr.free.bawej.wiktionarydumpparser.french;
 
-import fr.free.bawej.wiktionarydumpparser.universal.MarkupBlock;
+import fr.free.bawej.wiktionarydumpparser.universal.WiktionaryMarkupBlock;
 import fr.free.bawej.wiktionarydumpparser.universal.WiktionaryEntry;
 import fr.free.bawej.wiktionarydumpparser.universal.grammar.LexicalCategory;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtensionContext;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.*;
@@ -40,7 +39,7 @@ class FrenchSensesBlockInformationExtractorTest {
     @ParameterizedTest
     @ArgumentsSource(ValidHeadersArgumentsProvider.class)
     public void testValidHeaders(String header, LexicalCategory category) {
-        MarkupBlock block = new MarkupBlock(header, "");
+        WiktionaryMarkupBlock block = new WiktionaryMarkupBlock(header, "");
         assertTrue(extractor.isSupported(Locale.FRENCH, block));
         WiktionaryEntry.Builder builder = new WiktionaryEntry.Builder(Locale.FRENCH, 42, "foo");
         extractor.extractIntoEntryBuilder(block, builder);
